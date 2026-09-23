@@ -1,0 +1,52 @@
+name: Update EMDB Summary Page
+
+on:
+  schedule:
+    - cron: '30 0 * * 3'    # 00:30 UTC every Wednesday (EMDB release window)
+    - cron: '0 20 * * 2'    # 20:00 UTC every Tuesday
+  workflow_dispatch:
+    inputs:
+      target_date:
+        description: 'Target release date (YYYY-MM-DD). Leave empty for today UTC.'
+        required: false
+        default: ''
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write       # Grants workflow permission to push commits to the repository
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v5
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Determine Target Release Date
+        id: date
+        run: |
+          if [ -n "${{ github.event.inputs.target_date }}" ]; then
+            echo "RELEASE_DATE=${{ github.event.inputs.target_date }}" >> $GITHUB_ENV
+          else
+            echo "RELEASE_DATE=$(date -u +'%Y-%m-%d')" >> $GITHUB_ENV
+          fi
+
+      - name: Generate EMDB Summary
+        run: |
+          python .github/scripts/generate_emdb_summary.py \
+            .github/scripts/emdb_template.html \
+            .github/scripts/emdb_modal_block.js \
+            yes \
+            "${{ env.RELEASE_DATE }}"
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/index.html emdb_entries.tsv || true
+          git commit -m "Update EMDB summary page (${{ env.RELEASE_DATE }})" || echo "No changes to commit"
+          git push
