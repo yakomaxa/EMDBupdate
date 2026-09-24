@@ -8,6 +8,16 @@
       <button type="button" class="nav-btn next-btn" onclick="nextImage(); event.stopPropagation();" title="Next">&#10095;</button>
     </div>
 
+    <!-- ID, Title, and Authors placed at the top -->
+    <div class="modal-details-top">
+      <h3 id="modalAcc"></h3>
+      <div class="modal-title" id="modalTitle"></div>
+      <div class="modal-meta">
+        <p><strong>Authors:</strong> <span id="modalAuthors"></span></p>
+        <p><strong>Status:</strong> <span id="modalStatus" class="badge"></span> | <strong>Release Date:</strong> <span id="modalDate"></span></p>
+      </div>
+    </div>
+
     <div class="modal-images">
       <div class="img-box">
         <h4>Primary Surface Render</h4>
@@ -17,17 +27,10 @@
       </div>
     </div>
 
-    <div class="modal-details">
-      <h3 id="modalAcc"></h3>
-      <div class="modal-title" id="modalTitle"></div>
-      <div class="modal-meta">
-        <p><strong>Authors:</strong> <span id="modalAuthors"></span></p>
-        <p><strong>Status:</strong> <span id="modalStatus" class="badge"></span> | <strong>Release Date:</strong> <span id="modalDate"></span></p>
-      </div>
-      <div class="modal-links">
-        <a id="linkEMDB" href="#" target="_blank" class="btn">View Entry on EMDB</a>
-        <a id="linkEMNavi" href="#" target="_blank" class="btn btn-secondary">View on EMNavi</a>
-      </div>
+    <!-- Links at the bottom -->
+    <div class="modal-links">
+      <a id="linkEMDB" href="#" target="_blank" class="btn">View Entry on EMDB</a>
+      <a id="linkEMNavi" href="#" target="_blank" class="btn btn-secondary">View on EMNavi</a>
     </div>
 
     <div id="modalIndex"></div>
@@ -125,4 +128,3 @@ function handleSwipe() {
   }
 }
 </script>
-
