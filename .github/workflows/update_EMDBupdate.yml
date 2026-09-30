@@ -2,7 +2,7 @@ name: Update EMDB Summary Page
 
 on:
   schedule:
-    - cron: '30 0 * * 3'    # 00:30 UTC every Wednesday (EMDB release window)
+    - cron: '0 2 * * 3'    # 00:30 UTC every Wednesday (EMDB release window)
     - cron: '0 20 * * 2'    # 20:00 UTC every Tuesday
   workflow_dispatch:
     inputs:
