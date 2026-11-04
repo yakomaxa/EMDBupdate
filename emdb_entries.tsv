@@ -1,309 +1,406 @@
-EMD-100005	The anaphase promoting complex/cyclosome (APC/C) solved in the presence of a basic-hydrophobic (BH) cryo-tide [MALKVTKNSKINAENKAKINM]	Young RVC, Alfieri C	REL	2026-10-28
-EMD-100007	The anaphase promoting complex/cyclosome (APC/C) solved in the presence of an acidic-hydrophobic (AH) cryo-tide [MALEVTENSKINAENKAEINM]	Young RVC, Alfieri C	REL	2026-10-28
-EMD-53436	Cryo-EM structure of Rysto resistosome in complex with PVY coat protein	Zhao H, Lukoyanova N, Selvaraj M, Jones J	REL	2026-10-28
-EMD-55329	Structure of eMM762v1-sgRNA/DNA ternary complex	Ekundayo BE, Ni DC, Stahlberg H	REL	2026-10-28
-EMD-55357	Structure of bacteriophage T5 L-shaped tail fiber : fiber domain consensus map	d'Acapito A	REL	2026-10-28
-EMD-55358	Structure of bacteriophage T5 L-shaped tail fiber : fiber domain proximal map	d'Acapito A	REL	2026-10-28
-EMD-55392	Human PCNA in complex with a anti-PCNA DNA aptamer	Borek A, Pintscher S, Jaciuk M, Rawski M, Strzalka W	REL	2026-10-28
-EMD-55401	Spraguea lophii ribosome dimer, conformation 1.	McLaren M, Isupov MN, Daum B, Conners R	REL	2026-10-28
-EMD-55402	Spraguea lophii ribosome dimer, conformation 2.	McLaren M, Isupov MN, Daum B, Conners R	REL	2026-10-28
-EMD-55408	The targeting of non-fibrillar polyQ via distinct VCP-proteasome coupling	Zhao DY	REL	2026-10-28
-EMD-55805	Soft-landed and rehydrated beta-galactosidase (most similar to native, no reference)	Barrass SV, Esser TK, Mowry NJ, Eriksson L, Hruby J, Seeley LT, Drabbels M, Baker LA, Rauschenbach S, Lorenz UJ	REL	2026-10-28
-EMD-55814	Structure of C5-CVFBb (C5 C-terminal domain focus)	Joergensen MH, Andersen GR, Almeida AV	REL	2026-10-28
-EMD-55815	Structure of C5-CVFBb (Composite)	Joergensen MH, Andersen GR, Almeida AV	REL	2026-10-28
-EMD-55816	Consensus structure of C5-CVFBb	Joergensen MH, Andersen GR, Almeida AV	REL	2026-10-28
-EMD-55818	Cryo-EM structure of C5*-CVFBb (state 2.2)	Joergensen MH, Andersen GR, Almeida AV	REL	2026-10-28
-EMD-55819	Cryo-EM structure of C5*-CVFBb (state 2.1)	Joergensen MH, Andersen GR, Almeida AV	REL	2026-10-28
-EMD-55820	Cryo-EM structure of C5*-CVFBb (state 2.0)	Joergensen MH, Andersen GR, Almeida AV	REL	2026-10-28
-EMD-55821	Cryo-EM structure of C5-CVFBb (state 1.3)	Joergensen MH, Andersen GR, Almeida AV	REL	2026-10-28
-EMD-55822	Cryo-EM structure of C5-CVFBb (state 1.2)	Joergensen MH, Andersen GR, Almeida AV	REL	2026-10-28
-EMD-55823	Cryo-EM structure of C5-CVFBb (state 1.1)	Joergensen MH, Andersen GR, Almeida AV	REL	2026-10-28
-EMD-56909	Focus refined map of ZMYND19 bound to discoidin domain of substrate receptor MKLN1	Sepic S, Chrustowicz J, Du J, Schulman BA	REL	2026-10-28
-EMD-56910	Focus refined map of ZMYND19 bound to RANBP9-TWA1	Sepic S, Chrustowicz J, Du J, Schulman BA	REL	2026-10-28
-EMD-56912	Focus refined map of ZMYND19 bound to SPRY domain of RANBP9 and Kelch propeller of MKLN1	Sepic S, Chrustowicz J, Du J, Schulman BA	REL	2026-10-28
-EMD-56913	Cryo-EM structure of a ZMYND19 bound to MKLN1-RANBP9-TWA1 CTLH subcomplex	Sepic S, Chrustowicz J, Du J, Schulman BA	REL	2026-10-28
-EMD-57378	Cryo-EM map of substrate-MKLN1 bound CTLH-MKLN1 E3 ligase assembly	Sepic S, Chrustowicz J, Schulman BA	REL	2026-10-28
-EMD-57379	Cryo-EM map of ZMYND19-bound CTLH-MKLN1 E3 ligase - class II	Sepic S, Schulman BA	REL	2026-10-28
-EMD-57382	Cryo-EM map of ZMYND19 bound to RANBP9-TWA1-MKLN1 subcomplex - class II	Sepic S, Chrustowicz J, Du J, Schulman BA	REL	2026-10-28
-EMD-57383	Cryo-EM map of FAM72A-bound CTLH-MKLN1 E3 ligase	Sepic S, Schulman BA	REL	2026-10-28
-EMD-57385	Structure of MKLN1-RANBP9-TWA1 CTLH subcomplex bound to ZMYND19 substrate	Sepic S, Du J, Schulman BA	REL	2026-10-28
-EMD-57387	FAM72A-UNG2 bound to the discoidin domain of substrate receptor MKLN1	Sepic S, Du J, Maiwald SA, Schulman BA	REL	2026-10-28
-EMD-58300	Rigid body fitted Mycobacterium smegmatis RNA polymerase in complex with HelD, SigA and RbpA in State I	Vankova Hausnerova V, Kumar D, Neva S, Shoman M, Schwarz M, Modrak M, Jirat Matejckova J, Brazda P, Havelkova J, Codina Capdevila A, Sikova M, Pospisilova D, Holubova J, Halada P, Sanderova H, Dohal M, Prevorovsky M, Stanek O, Knejzlik Z, Kouba T, Dvorakova V, Hnilicova J	REL	2026-10-28
-EMD-58325	Rigid body fitted Mycobacterium smegmatis RNA polymerase in complex with HelD, SigA and RbpA in State II	Vankova Hausnerova V, Kumar D, Neva S, Shoman M, Schwarz M, Modrak M, Jirat Matejckova J, Brazda P, Havelkova J, Codina Capdevila A, Sikova M, Pospisilova D, Holubova J, Halada P, Sanderova H, Dohal M, Prevorovsky M, Stanek O, Knejzlik Z, Kouba T, Dvorakova V, Hnilicova J	REL	2026-10-28
-EMD-58337	Rigid body fitted Mycobacterium smegnatis RNAP open promoter complex with SigmaA and RbpA	Vankova Hausnerova V, Kumar D, Neva S, Shoman M, Schwarz M, Modrak M, Jirat Matejckova J, Brazda P, Havelkova J, Codina Capdevila A, Sikova M, Pospisilova D, Holubova J, Halada P, Sanderova H, Dohal M, Prevorovsky M, Stanek O, Knejzlik Z, Kouba T, Dvorakova V, Hnilicova J	REL	2026-10-28
-EMD-58652	Structure of MKLN1-RANBP9-TWA1 CTLH subcomplex bound to FAM72A C-terminus	Sepic S, Schulman BA	REL	2026-10-28
-EMD-59829	Cryo-EM structure of C5*-CVF#Bb (state 3.1)	Joergensen MH, Andersen GR, Almeida AV	REL	2026-10-28
-EMD-59830	Cryo-EM structure of C5 (state 0.0)	Joergensen MH, Andersen GR, Almeida AV	REL	2026-10-28
-EMD-59841	Cryo-EM structure of C5* (state 2.4)	Joergensen MH, Andersen GR, Almeida AV	REL	2026-10-28
-EMD-64095	CTP synthase PRE-condition state 2	Guo CJ	REL	2026-10-28
-EMD-64096	CTP synthase PRE-condition state 3	Guo CJ	REL	2026-10-28
-EMD-64098	CTP synthase PRE-condition state 5	Guo CJ	REL	2026-10-28
-EMD-64099	CTP synthase PRE-condition state 6	Guo CJ	REL	2026-10-28
-EMD-64100	CTP synthase PRE-condition state 7	Guo CJ	REL	2026-10-28
-EMD-64101	CTP synthase PRE-condition state 8	Guo CJ	REL	2026-10-28
-EMD-66606	CryoEM structure of Western equine encephalitis virus California VLP in complex with VLDLR-LBD	Liang SJ, Lou ZY	REL	2026-10-28
-EMD-66634	P2X322 bound to ATG and Mg2+	Wang C, Yu Y	REL	2026-10-28
-EMD-66674	Cryo-EM structure of the Tha-1-ORF61 complex	Qi H, Xia YS, Wei XY, Meng YH, Zhang JT, Jia N	REL	2026-10-28
-EMD-66693	Consensus map of human 26S proteasome in EA1-EA2 double-cap state (EMD-62091), also serving as focused map on the 20S core particle region via pseudo-single cap extraction strategy with C2/D2 symmetry	Wu Z, Chen E, Mao Y	REL	2026-10-28
-EMD-66694	A focused map of the human 26S proteasome in the EA1-EA2 double-cap state (EMD-62091), focusing on the 19S regulatory particle region (EA1).	Wu Z, Chen E, Mao Y	REL	2026-10-28
-EMD-66721	Tomogram of the hepatocyte from WT mice	Yang J, Guo Q	REL	2026-10-28
-EMD-66722	Tomogram of the hepatocyte from TMEM41b LKO mice	Yang J, Guo Q	REL	2026-10-28
-EMD-68681	Synechococcus elongatus PCC7942 SeOmp85	Chen YL, Li HM	REL	2026-10-28
-EMD-68890	Synechococcus elongatus PCC7942 SeOmp85	Chen YL, Li HM	REL	2026-10-28
-EMD-68892	Synechococcus elongatus PCC7942 SeOmp85	Chen YL, Li HM	REL	2026-10-28
-EMD-69446	Structural snapshots of F1-ATPase catalysis in drug resistant Acinetobacter baumannii reveal novel therapeutic targets - Conformation 1b	Le KCM, Gruber G	REL	2026-10-28
-EMD-69447	Structural snapshots of F1-ATPase catalysis in drug resistant Acinetobacter baumannii reveal novel therapeutic targets - Conformation 2a	Le KCM, Gruber G	REL	2026-10-28
-EMD-69449	Structural snapshots of F1-ATPase catalysis in drug resistant Acinetobacter baumannii reveal novel therapeutic targets - Conformation 3a	Le KCM, Gruber G	REL	2026-10-28
-EMD-69660	Cryo-EM structure of AcrB in liposomes incubated with doxorubicin (class1-out)	Akisada S, Yokoyama K	REL	2026-10-28
-EMD-69783	Axle-less F1 ATPase from Bacillus PS3 in New Dwell	Uchiyama T, Ueno H, Sobti M, Furlong EJ, Brown SH, Stewart AG, Noji H	REL	2026-10-28
-EMD-70686	Cryo-EM structure of the substrate-free clpXP complex (clpX harbors the Q208A mutation in subunits B, D, and F), Class-I	Florez Ariza AJ, Sosa R, Bustamante C	REL	2026-10-28
-EMD-70861	Cryo-EM structure of the Substrate-bound clpXP complex (clpX harbors the Q208A mutation in subunits B, D, and F), Class-III	Florez Ariza AJ, Sosa R, Bustamante C	REL	2026-10-28
-EMD-73899	Subvolume Averaging Reconstruction of Prohibitin Complexes from Mouse Embryonic Fibroblasts	Medina M, Rahmani H, Chang Y, Barad BA, Grotjahn DA	REL	2026-10-28
-EMD-75055	Structure of PTDSS2 in complex with NBD-PA	Lie W, Ming Z	REL	2026-10-28
-EMD-75056	Structure of PTDSS2 in complex with calcium and serine	Lie W, Ming Z	REL	2026-10-28
-EMD-76442	structure of human GluD1 with calcium	Mondal AK, Twomey EC	REL	2026-10-28
-EMD-76702	Norovirus Sydney VLP T=3	Anish R, Apostol CV, Pham S, Prasad BVV	REL	2026-10-28
-EMD-76740	GII.4 Syd T=4 (raised) VLP	Anish R, Apostol C, Pham S, Prasad BVV	REL	2026-10-28
-EMD-76749	Fab NORO-320 bound to C-D VP1 dimer of GII.4 Syd VLP (T=4) from C-side	Apostol CV, Anish R, Pham S, Prasad BVV	REL	2026-10-28
-EMD-76750	Fab NORO-320 bound to C-D VP1 dimer of GII.4 Syd VLP (T=4) from D-side	Apostol CV, Anish R, Pham S, Prasad BVV	REL	2026-10-28
-EMD-76751	2 molecules of Fab NORO-320 bound to C-D VP1 dimer of GII.4 Syd VLP (T=4)	Apostol CV, Anish R, Pham S, Prasad BVV	REL	2026-10-28
-EMD-76752	2 molecules of Fab NORO-320 bound to A-A' VP1 dimer of GII.4 Syd VLP (T=1) left side	Apostol CV, Anish R, Pham S, Prasad BVV	REL	2026-10-28
-EMD-76753	2 molecules of Fab NORO-320 bound to A-A' VP1 dimer of GII.4 Syd VLP (T=1) Right side	Apostol CV, Anish R, Pham S, Prasad BVV	REL	2026-10-28
-EMD-76754	Fab NORO-320 bound to A-B VP1 dimer of GII.4 Syd VLP (T=4) from 6-fold axis	Apostol CV, Anish R, Pham S, Prasad BVV	REL	2026-10-28
-EMD-76755	Fab NORO-320 bound to A-B VP1 dimer of GII.4 Syd VLP (T=4) from 5 fold axis	Apostol CV, Anish R, Pham S, Prasad BVV	REL	2026-10-28
-EMD-76756	M6 bound to A-BVP1 dimer of GII.4 Syd VLP from 5 fold axis	Apostol CV, Anish R, Pham S, Prasad BVV	REL	2026-10-28
-EMD-76757	M6 bound to A-B VP1 dimer of GII.4 Syd VLP from 6-fold axis	Apostol CV, Anish R, Pham S, Prasad BVV	REL	2026-10-28
-EMD-76758	2 molecules of M6 bound to A-B VP1 dimer of GII.4 Syd VLP	Apostol CV, Anish R, Pham S, Prasad BVV	REL	2026-10-28
-EMD-76760	M6 bound to C-C VP1 dimer of GII.4 Syd VLP (C2 side)	Apostol CV, Anish R, Pham S, Prasad BVV	REL	2026-10-28
-EMD-76761	2 molecules of M6 bound to C-C VP1 dimer of GII.4 Syd VLP	Apostol CV, Anish R, Pham S, Prasad BVV	REL	2026-10-28
-EMD-76762	M6 bound to A-A' VP1 dimer of GII.4 Syd VLP (T=1)	Apostol CV, Anish R, Pham S, Prasad BVV	REL	2026-10-28
-EMD-76763	M6 bound to A-A' VP1 dimer of GII.4 Syd VLP: other side (T=1)	Apostol CV, Anish R, Pham S, Prasad BVV	REL	2026-10-28
-EMD-76764	2 molecules of M6 bound to A-A' VP1 dimer of GII.4 Syd VLP (T=1)	Apostol CV, Anish R, Pham S, Prasad BVV	REL	2026-10-28
-EMD-77331	Mycobacterium tuberculosis DNA Gyrase catalytic core in complex with DNA and indole-3-acetyl-L-aspartic acid	Rossini NO, Dias MVB, Coureux PD	REL	2026-10-28
-EMD-77682	Covalent molecular glue EM12-FS in complex with CRBN/DDB1 and NTAQ1	de la Pena AH, Cruite JT, Jones LH	REL	2026-10-28
-EMD-77922	Cryo-EM reconstruction of LIF-R in complex with VHH#8	Fernandez-Quintero ML, Ward AB	REL	2026-10-28
-EMD-77923	Cryo-EM reconstruction of LIF-R in complex with VHH#3	Fernandez-Quintero ML, Ward AB	REL	2026-10-28
-EMD-78233	PTDSS2 structure in EDTA	Wang L, Zhou M	REL	2026-10-28
-EMD-79522	HCMV gH/gK + D11L, B1L, G2L Fabs Global Refinement Map	Ramamohan AR, McLellan JS	REL	2026-10-28
-EMD-79524	HCMV gH/gK + D11L, B1L, G2L Fabs Local Refinement Map	Ramamohan AR, McLellan JS	REL	2026-10-28
-EMD-79526	HCMV gH/gK + D11L, B1L, G2L Fabs Composite Map	Ramamohan AR, McLellan JS, McLellan JS	REL	2026-10-28
-EMD-79591	The cryoEM structure of virus-like particles of malabaricus grouper nervous necrosis virus, a fish nodavirus that infects Epinephelus malabaricus	Tang L	REL	2026-10-28
-EMD-79671	Cryo-EM structure of glutamate mutase from Carboxydothermus hydrogenoformans in the pre-activation state	Zhang XY, Tjia-Fleck SK, Tian SL	REL	2026-10-28
-EMD-79672	Cryo-EM structure of glutamate mutase from Carboxydothermus hydrogenoformans in the pre-activation state	Zhang XY, Tjia-Fleck SK, Tian SL	REL	2026-10-28
-EMD-79674	Cryo-EM structure of glutamate mutase from Carboxydothermus hydrogenoformans in the pre-activation state	Zhang XY, Tjia-Fleck SK, Tian SL	REL	2026-10-28
-EMD-79675	Cryo-EM structure of glutamate mutase from Carboxydothermus hydrogenoformans in the pre-activation state	Zhang XY, Tjia-Fleck SK, Tian SL	REL	2026-10-28
-EMD-80461	Cryo-EM structure of the Vo domain of Concanamycin A-bound V-ATPase on rat synaptic vesicles, state 2	Nishida Y, Yokoyama K	REL	2026-10-28
-EMD-81568	Atomic structure of the ASFV virus early transcription factor in DR state	Yang YG, Xin YH	REL	2026-10-28
-EMD-81795	GSDME-NT Pore	Du G, Wu H	REL	2026-10-28
-EMD-82624	Cryo-EM structure of AcrB in liposomes in the absence of doxorubicin (Apo2-out)	Akisada S, Yokoyama K	REL	2026-10-28
-EMD-82626	Cryo-EM structure of AcrB in liposomes in the absence of doxorubicin (Apo2-in)	Akisada S, Yokoyama K	REL	2026-10-28
-EMD-83201	Cryo-EM structure of AcrB in liposomes in the absence of doxorubicin (Apo2c)	Akisada S, Yokoyama K	REL	2026-10-28
-EMD-53455	Cryo-EM structure of Human Sigma 1 Receptor in the Hexamer form	Antonelli L, Ilari A, Fiorillo A, Exertier C, Tria G	REL	2026-10-28
-EMD-54910	Cryo-EM structure of human fibrillar procollagen type I C-propeptide heterotrimer complexed with PCPE-1	Lipinski O, Mariano N, Dieryckx C, Lagoutte P, Juyoux P, Kwong H, Vadon-Le Goff S, Carrique L, Moali C	REL	2026-10-28
-EMD-55260	Structural characterization of hibernating ribosomes in the Gram-negative pathogen Acinetobacter baumannii	Vasanthakrishnan RKBS, Olivier D, Sophie C, Yann LC, Sylvie GD, Sassi M, Emmanuel G, Reynald G	REL	2026-10-28
-EMD-55328	Structure of MM762(D10A)-sgRNA/DNA ternary complex	Ekundayo BE, Ni DC, Stahlberg H	REL	2026-10-28
-EMD-55331	Structural characterization of hibernating ribosomes in the Gram-negative pathogen Enterobacter cloacae complex	Vasanthakrishnan RKBS, Olivier D, Sophie C, Yann LC, Sylvie G, Sassi M, Emmanuel G, Reynald G	REL	2026-10-28
-EMD-55337	Structural characterization of hibernating ribosomes in the Gram-negative pathogen Klebsiella quasipneumoniae	Vasanthakrishnan RKBS, Olivier D, Sophie C, Yann LC, Sylvie GD, Sassi M, Emmanuel G, Reynald G	REL	2026-10-28
-EMD-55359	Structure of bacteriophage T5 L-shaped tail fiber : fiber domain distal map	d'Acapito A	REL	2026-10-28
-EMD-55360	Structure of bacteriophage T5 L-shaped tail fiber : fiber domain	d'Acapito A, Linares R, Breyton C	REL	2026-10-28
-EMD-55406	The targeting of non-fibrillar polyQ via distinct VCP-proteasome coupling	Zhao DY	REL	2026-10-28
-EMD-55407	The targeting of non-fibrillar polyQ via distinct VCP-proteasome coupling	Zhao DY	REL	2026-10-28
-EMD-55787	Bacteriophage 812 prohead II in the process of genome packaging	Zlatohurska M, Prochazkova M, Fuzik T, Plevka P	REL	2026-10-28
-EMD-55788	Bacteriophage 812 prohead I	Prochazkova M, Zlatohurska M, Fuzik T, Plevka P	REL	2026-10-28
-EMD-55817	Cryo-EM structure of C5*-CVFBb (state 2.3)	Joergensen MH, Andersen GR, Almeida AV	REL	2026-10-28
-EMD-56102	gp39 protein from Escherichia phage vB_EcoS_NBD2, unbent tubule, focused map 3	Sasnauskas G, Tamulaitiene G, Poviloniene S, Casaite V, Meskys R	REL	2026-10-28
-EMD-56911	Focus refined map of CTLH domains of MKLN1 and RANBP9	Sepic S, Chrustowicz J, Du J, Schulman BA	REL	2026-10-28
-EMD-57205	Cryo-EM map of monomeric Photosystem I from T. vestitus BP-1 in complex with cytochrome c6	Gaullier G, Boyka J, Forsman JA, Graca AT, Messinger J, Zouni A, Blikstad C	REL	2026-10-28
-EMD-57376	Cryo-EM structure of tetrameric MKLN1 within CTLH complex	Sepic S, Chrustowicz J, Du J, Schulman BA	REL	2026-10-28
-EMD-57377	Focus refined structure of CTLH E3-MKLN1 and substrate-MKLN1 dimer	Sepic S, Chrustowicz J, Du J, Schulman BA	REL	2026-10-28
-EMD-57384	Cryo-EM map of FAM72A-UNG2 bound to RANBP9-TWA1-MKLN1 subcomplex	Sepic S, Du J, Schulman BA	REL	2026-10-28
-EMD-64075	Goose parvovirus VLP produced from Saccharomyces cerevisiae	Geng M, Junyi L	REL	2026-10-28
-EMD-64092	A helper NLR structure of Pii-1	Xiong Y, Zhang X, Xiao Y	REL	2026-10-28
-EMD-64094	CTP synthase PRE-condition state 1	Guo CJ	REL	2026-10-28
-EMD-64097	CTP synthase PRE-condition state 4	Guo CJ	REL	2026-10-28
-EMD-64132	Cryo-EM structure of CDK2/CyclinE bound to a lysine covalent inhibitor	Jia S, Li S, Wu C, Xu HE, Ding K, Fan M, Ma D	REL	2026-10-28
-EMD-64176	Cryo-EM structure of the human adenosine A2A receptor in ligand free state resolved using the fusion/crosslinking strategy	Han SC, Li MH	REL	2026-10-28
-EMD-64179	Cryo-EM structure of the human adenosine A2A receptor bound to the antagonist ZM-241385 resolved via the fusion/crosslinking strategy	Han SC, Li MH	REL	2026-10-28
-EMD-64202	Cryo-EM structure of the prostaglandin D2 receptor 1 (DP1) bound to the antagonist laropiprant resolved via the fusion/crosslinking strategy	Han SC, Li MH	REL	2026-10-28
-EMD-64382	Cryo-EM structure of the oxytocin receptor bound to nanobody Nb2G5	Gao K, Nie J, Zhang X, Liu X	REL	2026-10-28
-EMD-64495	Cryo-EM structure of the oxytocin receptor bound to nanobody Nb2B1	Gao K, Nie J, Zhang X, Liu X	REL	2026-10-28
-EMD-64496	Cryo-EM structure of the oxytocin receptor bound to nanobody Nb2B11	Gao K, Nie J, Zhang X, Liu X	REL	2026-10-28
-EMD-64535	Cryo-EM structure of the oxytocin receptor bound to nanobody Nb2H4	Gao K, Nie J, Zhang X, Liu X	REL	2026-10-28
-EMD-64698	CTP synthase RXN-condition state 1	Guo CJ	REL	2026-10-28
-EMD-64699	CTP synthase RXN-condition state 2	Guo CJ	REL	2026-10-28
-EMD-64700	CTP synthase RXN-condition state 3	Guo CJ	REL	2026-10-28
-EMD-64701	CTP synthase RXN-condition state 4	Guo CJ	REL	2026-10-28
-EMD-64702	CTP synthase RXN-condition state 5	Guo CJ	REL	2026-10-28
-EMD-64703	CTP synthase RXN-condition state 6	Guo CJ	REL	2026-10-28
-EMD-64704	CTP synthase RXN-condition state 7	Guo CJ	REL	2026-10-28
-EMD-64705	CTP synthase RXN-condition state 8	Guo CJ	REL	2026-10-28
-EMD-64706	CTP synthase RXN-condition p-state	Guo CJ	REL	2026-10-28
-EMD-64707	CTP synthase EQ-condition state 1	Guo CJ	REL	2026-10-28
-EMD-64708	CTP synthase EQ-condition state 2	Guo CJ	REL	2026-10-28
-EMD-64709	CTP synthase EQ-condition state 3	Guo CJ	REL	2026-10-28
-EMD-64710	CTP synthase EQ-condition state 4	Guo CJ	REL	2026-10-28
-EMD-64711	CTP synthase ACP-condition state 1	Guo CJ	REL	2026-10-28
-EMD-64712	CTP synthase ACP-condition state 2	Guo CJ	REL	2026-10-28
-EMD-64714	CTP synthase ACP-condition state 3	Guo CJ	REL	2026-10-28
-EMD-64715	CTP synthase ACP-condition state 4	Guo CJ	REL	2026-10-28
-EMD-66033	RUVBL1-RUVBL2 complex	Qin Y, Xu G	REL	2026-10-28
-EMD-66451	Cryo-EM structure of the apo form of the KomBC filament	Li X, Liu M, Jiang WX, Xing Q, Ma LX, Huang FT	REL	2026-10-28
-EMD-66453	Cryo-EM structure of the dITP-bound acive form of the KomBC filament	Li X, Liu M, Jiang WX, Xing Q, Ma LX, Huang FT	REL	2026-10-28
-EMD-66459	Cryo-EM structure of the dITP-bound intermediate form of the KomBC filament	Li X, Liu M, Jiang WX, Xing Q, Ma LX, Huang FT	REL	2026-10-28
-EMD-66565	Human Short-chain acyl-CoA dehydrogenase with heCOA	Fang B, Xiaodong L, Shuyang Z	REL	2026-10-28
-EMD-66598	CryoEM structure of Western equine encephalitis virus California VLP in complex with VLDLR-LBD	Liang SJ, Lou ZY	REL	2026-10-28
-EMD-66605	CryoEM structure of Western equine encephalitis virus California VLP in complex with VLDLR-LA1-3	Liang SJ, Lou ZY	REL	2026-10-28
-EMD-66623	Psl polysaccharide related protein structures	Jiao L, Yihua H	REL	2026-10-28
-EMD-66626	Type A 2N4R human tau filaments induced by heparan sulfate with a single-protofilament fold	Zeng W, Sun S, Shi Y, He Z	REL	2026-10-28
-EMD-66648	Nitrous oxide reductase NosZ complexed with chaperone NosPQ	Wang XH, Zhu J, Zhang L, Zhang XJ	REL	2026-10-28
-EMD-66656	Structure of Candida aurisglycosylphosphatidylinositol transamidase	Ding XY, Hua ZK, Zhang MJ, Zhang M, Liu XT, Yu HJ	REL	2026-10-28
-EMD-66673	Cryo-EM structure of the Tha-1-Ith-1 complex	Qi H, Xia YS, Wei XY, Meng YH, Zhang JT, Jia N	REL	2026-10-28
-EMD-66699	Complex of Tetanus Toxin HC Domain with 3A5 Fab Fragment	Zhang GY, Yu CM, Wang YX	REL	2026-10-28
-EMD-66737	Cryo-EM Structure of TLR4-TIRAP-Myd88 TIR domain complex	Liu Q, Bai Z, Zhang Y, Hu Z	REL	2026-10-28
-EMD-66739	Cryo-EM structure of HalT (C23A mutant), a peptidase-domain containing ABC Transporter, with substrate	Gan BK, Luo M	REL	2026-10-28
-EMD-66742	Cryo-EM structure of HalTWT, a peptidase-domain containing ABC Transporter, with ADP and vanadate	Gan BK, Luo M	REL	2026-10-28
-EMD-66744	Cryo-EM structure of HalM1 (C963AH964A mutant), a class II lanthipeptide synthetase, bound with substrate	Gan BK, Luo M	REL	2026-10-28
-EMD-66747	Cryo-EM structure of HalM2, a class II lanthipeptide synthetase, bound with substrate and ADP	Gan BK, Luo M	REL	2026-10-28
-EMD-67146	Cryo-EM structure of mouse ALDH1L1(CTD)with HCC010	Ma X	REL	2026-10-28
-EMD-67169	CCHFV-FL-RNA-bound state	Zhu H, Gao XP	REL	2026-10-28
-EMD-67953	cryoEM structure of PROTEIN TANC1	Xue CY, Liu ZM, Liu W, Zhong D	REL	2026-10-28
-EMD-67956	cryoEM structure of PROTEIN TANC2	Xue CY, Liu ZM, Liu W, Zhong D	REL	2026-10-28
-EMD-67963	cryoEM structure of PROTEIN TANC2 pre-activated	Xue CY, Liu ZM, Liu W, Zhong D	REL	2026-10-28
-EMD-68255	The structure of HER2-m66-trastuzumab	Liu C, Ren Y, Luo X, Zhou P, Du X, Wang Q, Han X, Xu Y, Wang P, Zhao D, Yang H	REL	2026-10-28
-EMD-68256	The structure of HER2-r40-trastuzumab-pertuzumab	Liu C, Ren Y, Yang H, Xu Y	REL	2026-10-28
-EMD-69662	Cryo-EM structure of AcrB in liposomes incubated with doxorubicin (class2a)	Akisada S, Yokoyama K	REL	2026-10-28
-EMD-69663	Cryo-EM structure of AcrB in liposomes incubated with doxorubicin (class2b)	Akisada S, Yokoyama K	REL	2026-10-28
-EMD-69665	Cryo-EM structure of AcrB in liposomes incubated with doxorubicin (class1-in)	Akisada S, Yokoyama K	REL	2026-10-28
-EMD-69666	Cryo-EM structure of AcrB in liposomes incubated with doxorubicin (class2-in)	Akisada S, Yokoyama K	REL	2026-10-28
-EMD-69667	Cryo-EM structure of AcrB in liposomes in the absence of doxorubicin (Apo1-out)	Akisada S, Yokoyama K	REL	2026-10-28
-EMD-69782	Axle-less F1 ATPase from Bacillus PS3 in Binding Dwell	Uchiyama T, Ueno H, Sobti M, Furlong EJ, Brown SH, Stewart AG, Noji H	REL	2026-10-28
-EMD-69784	Axle-less F1 ATPase from Bacillus PS3 in Hydrolysis Dwell	Uchiyama T, Ueno H, Sobti M, Furlong EJ, Brown SH, Stewart AG, Noji H	REL	2026-10-28
-EMD-69828	Cryo-EM structure of AcrB in liposomes incubated with doxorubicin (class2-out)	Akisada S, Yokoyama K	REL	2026-10-28
-EMD-73379	Consensus refinement map of human LPHN2 (ADGRL2)/G13 complex in lipid nanodiscs	He F, Skiniotis G	REL	2026-10-28
-EMD-73542	Cryo-EM structure of designed Orb2 amyloid (FVLVF, polymorph 1)	Singh R, Kaili L, Si K, Joachimiak L	REL	2026-10-28
-EMD-75214	HIV-1 ADA.CM.755* Env (Mature VLPs)	Croft JT, Lee KK	REL	2026-10-28
-EMD-76759	M6 bound to C-C VP1 dimer of GII.4 Syd VLP (C1 side)	Apostol C, Anish R, Pham S, Prasad BVV	REL	2026-10-28
-EMD-77013	Structure of HSP90b bound to de-novo designed binder H2	Srivastava D, Singh S, Artemyev NO	REL	2026-10-28
-EMD-77014	Structure of HSP90b bound to de-novo designed binder H4	Srivastava D, Singh S, Artemyev NO	REL	2026-10-28
-EMD-77106	Norovirus GII.4 Sydney VLP, T=3 C-C dimer, Class1	Anish R, Apostol CV, Pham S, Prasad BVV	REL	2026-10-28
-EMD-80460	Cryo-EM structure of the Vo domain of Concanamycin A-bound V-ATPase from rat brain, state 1	Nishida Y, Yokoyama K	REL	2026-10-28
-EMD-81562	Atomic structure of the ASFV virus early transcription factor in ER state	Yang YG, Xin YH	REL	2026-10-28
-EMD-81794	GSDME-NT Pore without imposing symmetry	Du G, Wu H	REL	2026-10-28
-EMD-81812	Cryo-EM structure of Anopheles stephensi IR8a-IR75k receptor	Xu L, Pan XJ	REL	2026-10-28
-EMD-81813	Cryo-EM structure of Anopheles stephensi IR8a-IR75k receptor with nonanoic acid	Xu L, Pan XJ	REL	2026-10-28
-EMD-81814	Cryo-EM structure of the extracellular domain of Anopheles stephensi IR8a-IR75k receptor in complex with nonanoic acid	Xu L, Pan XJ	REL	2026-10-28
-EMD-81815	cryo-EM structure of the extracellular domain of Anopheles stephensi IR8a-IR75k receptor in complex with octanoic acid	Xu L, Pan XJ	REL	2026-10-28
-EMD-81816	Cryo-EM structure of Anopheles stephensi IR8a-IR75k receptor with nonanoic acid (symmetry expanded and ECD focused)	Xu L, Pan XJ	REL	2026-10-28
-EMD-82625	Cryo-EM structure of AcrB in liposomes in the absence of doxorubicin (Apo1-in)	Akisada S, Yokoyama K	REL	2026-10-28
-EMD-83200	Cryo-EM structure of AcrB in liposomes in the absence of doxorubicin (Apo2a)	Akisada S, Yokoyama K	REL	2026-10-28
-EMD-83889	Cryo-electron tomogram of endolysosomes in mock-treated U2OS cells, tomogram 3	Zhang Y, Ni T, Li X, Jiang HB	REL	2026-10-28
-EMD-83891	Cryo-electron tomogram of endolysosomes in LLOMe-treated U2OS cells, tomogram 3	Zhang Y, Ni T, Li X, Jiang HB	REL	2026-10-28
-EMD-100028	The anaphase promoting complex/cyclosome (APC/C) solved in the presence of a scrambled basic-hydrophobic (SBH) cryo-tide [KNSINMMKKAVNKTLEKAAIN]	Young RVC, Alfieri C	REL	2026-10-28
-EMD-55786	Bacteriophage 812 head filled with DNA	Zlatohurska M, Prochazkova M, Fuzik T, Plevka P	REL	2026-10-28
-EMD-55927	OmRV WT infectious clone	Wang H, Okamoto K	REL	2026-10-28
-EMD-58797	In situ asymmetric subunit of human nuclear pore complex	Kreysing JP, Turonova B, Beck M	REL	2026-10-28
-EMD-58798	In situ cytoplasmic ring subunit of human nuclear pore complex	Kreysing JP, Turonova B, Beck M	REL	2026-10-28
-EMD-58799	In situ inner ring subunit of human nuclear pore complex	Kreysing JP, Turonova B, Beck M	REL	2026-10-28
-EMD-58801	In situ nuclear ring subunit of human nuclear pore complex	Kreysing JP, Turonova B, Beck M	REL	2026-10-28
-EMD-58803	In situ nuclear basket subunit of human nuclear pore complex	Kreysing JP, Turonova B, Beck M	REL	2026-10-28
-EMD-58804	In situ symmetrized composite map of human nuclear pore complex	Kreysing JP, Turonova B, Beck M	REL	2026-10-28
-EMD-59287	B. subtilis RNA Polymerase delta/omega variant with SigA	Loll B, Hilal T	REL	2026-10-28
-EMD-59288	B. subtilis RNA Polymerase delta omega variant with SigA	Loll B, Hilal T	REL	2026-10-28
-EMD-59289	B. subtilis RNA Polymerase with SigA	Loll B, Hilal T	REL	2026-10-28
-EMD-59290	B. subtilis RNA Polymerase with SigF	Loll B, Hilal T	REL	2026-10-28
-EMD-59649	Alpha-Synuclein Type 1m Fibrils at pH 7.0 (supersedes entry 8PK2)	Frey L, Kwiatkowski W, Biedermann K, Ghosh D, Rhyner D, Greenwald J, Riek R	REL	2026-10-28
-EMD-59736	Cryo-EM structure of yeast EMC:Spf1 insertase:dislocase complex in digitonin - Spf1 component	Klose CJ, Prabu JR, Schulman BA	REL	2026-10-28
-EMD-59738	Cryo-EM structure of yeast EMC:Spf1 insertase:dislocase complex in digitonin	Klose CJ, Prabu JR, Schulman BA	REL	2026-10-28
-EMD-59745	Cryo-EM structure of yeast EMC:Spf1 insertase:dislocase complex in digitonin	Klose CJ, Prabu JR, Schulman BA	REL	2026-10-28
-EMD-59746	Cryo-EM structure of yeast EMC:Spf1 insertase:dislocase complex in E1-ATP conformation in digitonin	Klose CJ, Prabu JR, Schulman BA	REL	2026-10-28
-EMD-64182	Cryo-EM structure of the human adenosine A2A receptor bound to the agonist adenosine resolved via the fusion/crosslinking strategy	Han SC, Li MH	REL	2026-10-28
-EMD-64197	Cryo-EM structure of the human CB1 cannabinoid receptor bound to the inverse agonist taranabant resolved via the fusion/crosslinking strategy	Han SC, Li MH	REL	2026-10-28
-EMD-64200	Cryo-EM structure of the human NK1 tachykinin receptor bound to the antagonist aprepitant resolved via the fusion/crosslinking strategy	Han SC, Li MH	REL	2026-10-28
-EMD-64203	Cryo-EM structure of the prostaglandin D2 receptor 1 (DP1) bound to the antagonist asapiprant resolved via the fusion/crosslinking strategy	Han SC, Li MH	REL	2026-10-28
-EMD-66022	R2-TTT-GNB1L complex	Qin Y, Xu G	REL	2026-10-28
-EMD-66406	Cryo-EM structure of human alpha1beta2gamma2 GABA(A)R in complex with puerarin at 2.2 angstrom resolution from Biortus	Wang F, Qian K, Yang Y, Liu Z, Shi H, Han T, Hu Y	REL	2026-10-28
-EMD-66489	Cryo-EM structure of R. castenholzii ModBC in the resting state.	Wu W, Xu X	REL	2026-10-28
-EMD-66490	Cryo-EM structure of R. castenholzii ModBC with ATP-bound in the pre-catalytic (inward-facing) state.	Wu W, Xu X	REL	2026-10-28
-EMD-66491	Cryo-EM structure of R. castenholzii ModBC with ATP-bound in the pre-catalytic (outward-facing) state.	Wu W, Xu X	REL	2026-10-28
-EMD-66492	cryo-EM structure of R. castenholzii molybdate transporter ModABC with molybdate in pre-translocation state.	Wu W, Xu X	REL	2026-10-28
-EMD-66493	Cryo-EM structure of R. castenholzii ModBC in the post-catalytic state.	Wu W, Xu X	REL	2026-10-28
-EMD-66495	Cryo-EM structure of R. castenholzii ModBC in the post-translocation state.	Wu W, Xu X	REL	2026-10-28
-EMD-66500	Human Short-chain acyl-CoA dehydrogenase with buCOA	Fang B, Xiaodong L, Shuyang Z	REL	2026-10-28
-EMD-66568	Cryo-EM structure of ClassIII Lanthipeptide modification enzyme FaecKC in the presence of ATPrS.	Zhang HJ, Wang BC	REL	2026-10-28
-EMD-66590	Cryo-EM structure of SLC4A10 bound NaCl	Yang H, Sun P	REL	2026-10-28
-EMD-66591	Cryo-EM structure of SLC4A10 bound K+ and HCO3-	Yang H, Sun P	REL	2026-10-28
-EMD-66592	Cryo-EM structure of SLC4A10 bound DIDS	Yang H, Sun P	REL	2026-10-28
-EMD-66593	Cryo-EM structure of SLC4A10 bound Na+ and HCO3-	Yang H, Sun P	REL	2026-10-28
-EMD-66620	Filament of mutant Escherichia coli CTP synthase fused with mEGFP	Yin BQ, Hu HH, Liu JL	REL	2026-10-28
-EMD-66700	Complex of Tetanus Toxin LC and HN Domain with TTG9 Fab Fragment	Zhang GY, Yu CM, Wang YX	REL	2026-10-28
-EMD-66738	Cryo-EM structure of HalT (C23A mutant), a peptidase-domain containing ABC Transporter, in an apo state	Gan BK, Luo M	REL	2026-10-28
-EMD-66740	Cryo-EM structure of HalT (C23A mutant), a peptidase-domain containing ABC Transporter, bound with substrate and ATP	Gan BK, Luo M	REL	2026-10-28
-EMD-66741	Cryo-EM structure of HalT (E643Q mutant), a peptidase-domain containing ABC transporter, incubated with ATP	Gan BK, Luo M	REL	2026-10-28
-EMD-66743	Cryo-EM structure of SmcEWT, a peptidase-domain containing ABC Transporter, with ADP and vanadate	Gan BK, Luo M	REL	2026-10-28
-EMD-66745	Cryo-EM structure of SmcE, a peptidase-domain containing ABC Transporter, with substrate and ATP	Gan BK, Luo M	REL	2026-10-28
-EMD-66746	Cryo-EM structure of HalM1, a class II lanthipeptide synthetase, bound with substrate, ATP, and Zn	Gan BK, Luo M	REL	2026-10-28
-EMD-66748	Cryo-EM structure of HalM2, a class II lanthipeptide synthetase, bound with substrate HalA2 and Zn	Gan BK, Luo M	REL	2026-10-28
-EMD-67157	Core-5RNA CCHFV	Zhu H, Gao XP	REL	2026-10-28
-EMD-67173	Cryo-EM structure of cchfv apo-state	Zhu H, Gao XP	REL	2026-10-28
-EMD-68027	Cryo-EM structure of E.coli BrxC bound to ATPrS in Dimer-1 conformation	Li S, Xu TH, Zhu L, Sun LT	REL	2026-10-28
-EMD-68039	Cryo-EM structure of E.coli BrxBCZ complex bound to ATPrS and Mg2+	Li S, Xu TH, Zhu L, Sun LT	REL	2026-10-28
-EMD-68071	Cryo-EM structure of E.coli BrxC bound to ATPrS in Dimer-2 conformation	Li S, Xu TH, Zhu L, Sun LT	REL	2026-10-28
-EMD-69085	Cryo-EM structure of E.coli BrxC in monomer state	Li S, Xu TH, Zhu L, Sun LT	REL	2026-10-28
-EMD-69444	Structural snapshots of F1-ATPase catalysis in drug resistant Acinetobacter baumannii reveal novel therapeutic targets - Conformation 1a	Le KCM, Gruber G	REL	2026-10-28
-EMD-69448	Structural snapshots of F1-ATPase catalysis in drug resistant Acinetobacter baumannii reveal novel therapeutic targets - Conformation 2b	Le KCM, Gruber G	REL	2026-10-28
-EMD-69450	Structural snapshots of F1-ATPase catalysis in drug resistant Acinetobacter baumannii reveal novel therapeutic targets - Conformation 3b	Le KCM, Gruber G	REL	2026-10-28
-EMD-69664	Cryo-EM structure of AcrB in liposomes incubated with doxorubicin (class2c)	Akisada S, Yokoyama K	REL	2026-10-28
-EMD-70772	Cryo-EM structure of the Substrate-bound clpXP complex (clpX harbors the Q208A mutation in subunits B, D, and F), Class-II	Florez Ariza AJ, Sosa R, Bustamante C	REL	2026-10-28
-EMD-73280	LRRK2 local refinement map focused on C-terminal kinase, WD40 and C12 DARPin	Sanz-Murillo M, Leschziner A	REL	2026-10-28
-EMD-73281	LRRK2 focus refinement map on RoC, COR-A, COR-B and N-lobe kinase	Sanz-Murillo M, Leschziner A	REL	2026-10-28
-EMD-73282	C-terminal half LRRK2 bound to C12 DARPin consensus map	Sanz-Murillo M, Leschziner A	REL	2026-10-28
-EMD-73378	Local refinement map on receptor of human LPHN2 (ADGRL2)/G13 complex in lipid nanodiscs	He F, Skiniotis G	REL	2026-10-28
-EMD-74258	Ciliary 96-nm repeat unit from Leishmania tarentolae, generated via cryo-electron tomography and subtomogram averaging	Wilburn D, Nicastro D	REL	2026-10-28
-EMD-75054	Structure of PTDSS2 in complex with POPE	Lie W, Ming Z	REL	2026-10-28
-EMD-75057	Structure of human PTDSS1 in complex with calcium	Lie W, Ming Z	REL	2026-10-28
-EMD-75149	The eukaryotic translation initiation factor 2B from Homo sapiens with a L179V mutation in the delta subunit, I-state	Dalwadi U, Boone M, Croll TI, Laughlin TG, Frost A, Walter P	REL	2026-10-28
-EMD-75150	The eukaryotic translation initiation factor 2B from Homo sapiens with a L179V mutation in the delta subunit bound to methylated ISRIB	Dalwadi U, Boone M, Croll TI, Laughlin TG, Frost A, Walter P	REL	2026-10-28
-EMD-76894	Cryo-EM structure of hexameric apo human K293st geranylgeranyl diphosphate synthase	Pham AC, Borgstahl EO	REL	2026-10-28
-EMD-77107	Norovirus GII.4 Sydney VLP, T=3 C-C dimer, Class5	Anish R, Apostol CV, Pham S, Prasad BVV	REL	2026-10-28
-EMD-78669	Arabidopsis H2AXa containing nucleosome, Right offset stack	Panigrahi R, Edwards R, Glover M	REL	2026-10-28
-EMD-78694	Arabidopsis H2AXa containing nucleosome, Parallel stack	Panigrahi R, Edwards R, Glover M	REL	2026-10-28
-EMD-80462	Cryo-EM structure of the Vo domain of Concanamycin A-bound V-ATPase from rat brain, state 3	Nishida Y, Yokoyama K	REL	2026-10-28
-EMD-80463	Cryo-EM structure of the V1 domain of V-ATPase from rat brain, state 1	Nishida Y, Ueda F, Yokoyama K	REL	2026-10-28
-EMD-80464	Cryo-EM structure of the Vo domain of V-ATPase from rat brain, state 1	Nishida Y, Sugawara K, Akisada S, Yokoyama K	REL	2026-10-28
-EMD-80465	Cryo-EM structure of the Vo domain of Concanamycin A-bound V-ATPase from rat brain, state 1-2	Nishida Y, Yokoyama K	REL	2026-10-28
-EMD-80466	Cryo-EM structure of the Vo domain of Concanamycin A-bound V-ATPase from rat brain, state 1-3	Nishida Y, Yokoyama K	REL	2026-10-28
-EMD-80467	Cryo-EM structure of the Vo domain of Concanamycin A-bound V-ATPase on rat synaptic vesicles, state 1	Nishida Y, Yokoyama K	REL	2026-10-28
-EMD-80468	Cryo-EM structure of the V1 domain of V-ATPase from rat brain, state 2	Nishida Y, Yokoyama K	REL	2026-10-28
-EMD-80469	Cryo-EM structure of the Vo domain of V-ATPase from rat brain, state 2	Nishida Y, Yokoyama K	REL	2026-10-28
-EMD-80470	Cryo-EM structure of the Vo domain of V-ATPase from rat brain, state 3	Nishida Y, Yokoyama K	REL	2026-10-28
-EMD-80471	Cryo-EM structure of the Vo domain of Bafilomycin A1-bound V-ATPase from rat brain, state 2	Nishida Y, Ueda F, Yokoyama K	REL	2026-10-28
-EMD-80472	Cryo-EM structure of the Vo domain of Bafilomycin A1-bound V-ATPase from rat brain, state 3	Nishida Y, Ueda F, Yokoyama K	REL	2026-10-28
-EMD-80481	Cryo-EM structure of the Vo domain of Concanamycin A-bound V-ATPase on rat synaptic vesicles, state 3	Nishida Y, Yokoyama K	REL	2026-10-28
-EMD-80482	Cryo-EM structure of the V1 domain of V-ATPase from rat brain, state 3	Nishida Y, Yokoyama K	REL	2026-10-28
-EMD-80483	Cryo-EM structure of the Vo domain of Concanamycin A-bound V-ATPase from rat brain, state 1-1	Nishida Y, Akisada S, Yokoyama K	REL	2026-10-28
-EMD-81053	Cryo-EM structure of the Vo domain of bafilomycin A1-bound V-ATPase from rat brain, state 1	Nishida Y, Yokoyama K	REL	2026-10-28
-EMD-81054	Cryo-EM structure of the Vo domain of Concanamycin A-bound V-ATPase from rat brain, state 2	Nishida Y, Yokoyama K	REL	2026-10-28
-EMD-81055	Cryo-EM structure of the Vo domain of Concanamycin A-bound V-ATPase from rat brain, state 2-1	Nishida Y, Yokoyama K	REL	2026-10-28
-EMD-81056	Cryo-EM structure of the Vo domain of Concanamycin A-bound V-ATPase from rat brain, state 2-2	Nishida Y, Yokoyama K	REL	2026-10-28
-EMD-81057	Cryo-EM structure of the Vo domain of Concanamycin A-bound V-ATPase from rat brain, state 3-1	Nishida Y, Akisada S, Yokoyama K	REL	2026-10-28
-EMD-81058	Cryo-EM structure of the Vo domain of Concanamycin A-bound V-ATPase from rat brain, state 3-2	Nishida Y, Yokoyama K	REL	2026-10-28
-EMD-82032	Cryo-EM structure of a virus helcal scaffolds	Zhang K	REL	2026-10-28
-EMD-83202	Cryo-EM structure of AcrB in liposomes in the absence of doxorubicin (Apo2b)	Akisada S, Yokoyama K	REL	2026-10-28
-EMD-83868	Cryo-electron tomogram of endolysosomes in GPN-treated U2OS cells, tomogram 2	Zhang Y, Ni T, Li X, Jiang HB	REL	2026-10-28
-EMD-83869	Cryo-electron tomogram of endolysosomes in GPN-treated U2OS cells, tomogram 3	Zhang Y, Ni T, Li X, Jiang HB	REL	2026-10-28
-EMD-83878	Cryo-electron tomogram of endolysosomes in mock-treated U2OS cells, tomogram 1	Zhang Y, Ni T, Li X, Jiang HB	REL	2026-10-28
-EMD-83886	Cryo-electron tomogram of endolysosomes in LLOMe-treated U2OS cells, tomogram 1	Zhang Y, Ni T, Li X, Jiang HB	REL	2026-10-28
-EMD-83887	Cryo-electron tomogram of endolysosomes in GPN-treated U2OS cells, tomogram 1	Zhang Y, Ni T, Li X, Jiang HB	REL	2026-10-28
-EMD-83888	Cryo-electron tomogram of endolysosomes in mock-treated U2OS cells, tomogram 2	Zhang Y, Ni T, Li X, Jiang HB	REL	2026-10-28
-EMD-83890	Cryo-electron tomogram of endolysosomes in LLOMe-treated U2OS cells, tomogram 2	Zhang Y, Ni T, Li X, Jiang HB	REL	2026-10-28
-EMD-83942	Synaptotagmin-1_molecules_from_the_0_mM_Ca2_Cluster2	Purba ER, Ofverstedt LG, Skuglund U	REL	2026-10-28
-EMD-84205	Synaptotagmin-1_molecules_from_the_0_mM_Ca2_Cluster4	Purba ER, Ofverstedt LG, Skuglund U	REL	2026-10-28
-EMD-58802	In situ luminal ring subunit of human nuclear pore complex	Kreysing JP, Turonova B, Beck M	REL	2026-10-28
-EMD-68803	Cryo-EM structure of ATRX ATPase domain bound to a nucleosome	Huang Y, Wang X, Chen Y	REL	2026-10-28
-EMD-74262	Cryo-electron tomography and subtomogram averaging of Leishmania tarentolae Central Pair Complex	Wilburn D, Nicastro D	REL	2026-10-28
-EMD-75147	The eukaryotic translation initiation factor 2B from Homo sapiens with a L179V mutation in the delta subunit bound to ISRIB	Dalwadi U, Boone M, Croll TI, Laughlin TG, Frost A, Walter P	REL	2026-10-28
-EMD-75148	The eukaryotic translation initiation factor 2B from Homo sapiens with a L179V mutation in the delta subunit, A-state	Dalwadi U, Boone M, Croll TI, Laughlin TG, Frost A, Walter P	REL	2026-10-28
-EMD-77094	Leishmania Doublet Specific Axonemal Outer Dynein Arm Tether	Wilburn D, Nicastro D	REL	2026-10-28
-EMD-78870	Connexin-46 Dual-Channel Assembly - Centered	Garrels CS, Reichow SL	REL	2026-10-28
-EMD-78875	Cx46 Dual-Channel Assembly - Offset	Garrels CS, Reichow SL	REL	2026-10-28
-EMD-78905	Connexin-46 at 1.8 angstrom resolution	Myers JB, Garrels CS, Reichow SL	REL	2026-10-28
+EMD-53492	Bovine complex I at pH 6.0 in the deactive state (peripheral domain)	Fisher W, Grba DN, Hirst J	REL	2026-11-04
+EMD-53493	Bovine complex I at pH 6.0 in the deactive state (proximal membrane domain)	Fisher W, Grba DN, Hirst J	REL	2026-11-04
+EMD-53496	Bovine complex I at pH 6.0 in the slack state	Fisher W, Grba DN, Hirst J	REL	2026-11-04
+EMD-53498	Bovine complex I at pH 9.2 in the deactive state (consensus)	Fisher W, Grba DN, Hirst J	REL	2026-11-04
+EMD-53499	Bovine complex I at pH 9.2 in the deactive state (peripheral domain)	Fisher W, Grba DN, Hirst J	REL	2026-11-04
+EMD-53500	Bovine complex I at pH 9.2 in the deactive state (proximal membrane domain)	Fisher W, Grba DN, Hirst J	REL	2026-11-04
+EMD-53501	Bovine complex I at pH 9.2 in the deactive state (distal membrane domain)	Fisher W, Grba DN, Hirst J	REL	2026-11-04
+EMD-53502	Bovine complex I at pH 9.2 in the deactive state (composite)	Fisher W, Grba DN, Hirst J	REL	2026-11-04
+EMD-54791	CryoEM structure of human 20S proteasome in complex with proteasome inhibitor Carmaphycin B	Havlikova J, Sulzen H, Boura E, Fajtova P, Silhan J	REL	2026-11-04
+EMD-55117	Structure of trans-basal conformer of human CBS encompassing 16-18 dimer repeating units (in absence of substrate and allosteric ligand)- by Helical approach	Inayathulla M, Tomas M	REL	2026-11-04
+EMD-55128	Structure of stacked allo-activated CBS conformer by allosteric SAM - by Helical approach	Inayathulla M, Tomas M	REL	2026-11-04
+EMD-55410	Compact Coxsackievirus B1 (CVB1) virus-like particle delta-PALXA	Gurianov S, Butcher SJ	REL	2026-11-04
+EMD-55411	Expanded Coxsackievirus B1 (CVB1) virus-like particle delta-PALXA	Gurianov S, Butcher SJ	REL	2026-11-04
+EMD-55776	Inactive-state structure of GPR55 in complex with BI-6229	Claff T, Ebenhoch R, Kley JT, Weichert D	REL	2026-11-04
+EMD-55777	Inactive-state structure of GPR55 in complex with BI-8310	Claff T, Ebenhoch R, Kley JT, Weichert D	REL	2026-11-04
+EMD-55778	Active-state structure of the GPR55-N171Q mutant in complex with G13 and BI-6229	Claff T, Ebenhoch R, Kley JT, Weichert D	REL	2026-11-04
+EMD-55779	Cryo-EM consensus map of inactive-state GPR55-bRIL-Fab-Nb bound to BI-6229	Claff T, Ebenhoch R, Kley JT, Weichert D	REL	2026-11-04
+EMD-55780	Cryo-EM focused map of inactive-state GPR55-bRIL-Fab-Nb bound to BI-6229	Claff T, Ebenhoch R, Kley JT, Weichert D	REL	2026-11-04
+EMD-55781	Cryo-EM consensus map of inactive-state GPR55-bRIL-Fab-Nb bound to BI-8310	Claff T, Ebenhoch R, Kley JT, Weichert D	REL	2026-11-04
+EMD-55782	Cryo-EM focused map of inactive-state GPR55-bRIL-Fab-Nb bound to BI-8310	Claff T, Ebenhoch R, Kley JT, Weichert D	REL	2026-11-04
+EMD-55783	Cryo-EM consensus map of the active-state GPR55-N171Q mutant in complex with G13 and BI-6229	Claff T, Ebenhoch R, Kley JT, Weichert D	REL	2026-11-04
+EMD-55784	Cryo-EM focused map of the active-state GPR55-N171Q mutant in complex with G13 and BI-6229	Claff T, Ebenhoch R, Kley JT, Weichert D	REL	2026-11-04
+EMD-56196	Structure of the Plant mitochondrial pre-initiation complex 2, (SSU,mtIF3,mRNA)	Skaltsogiannis V, Giege P, Soufari H	REL	2026-11-04
+EMD-56197	Structure of the Plant mitochondrial pre-initiation complex 3, (SSU,mtIF3,mRNA,tRNA)	Skaltsogiannis V, Giege P, Soufari H	REL	2026-11-04
+EMD-56198	Structure of the Plant mitochondrial pre-initiation complex 1, (SSU,mtIF3)	Skaltsogiannis V, Giege P, Soufari H	REL	2026-11-04
+EMD-56210	Structure of the Plant mitochondrial initiation complex, (SSU, LSU, initiator tRNA, mRNA)	Skaltsogiannis V, Giege P, Soufari H	REL	2026-11-04
+EMD-56467	Vibrio cholerae DnaB-DciA open ring complex	Araujo-Bazan L, Arias-Palomo E	REL	2026-11-04
+EMD-64460	Cryo-EM structure of SKF-83566 bound dopamine receptor DRD1-Gs signaling complex.	Zhong YN, Pu XY	REL	2026-11-04
+EMD-64534	Escherichia coli transhydrogenase double dIIIs detached to dIIs state in the presence of both NADPH and NADP+	Zhu J, Gennis RB, Zhang K, Li J	REL	2026-11-04
+EMD-64723	CTP synthase dDON-condition state 1	Guo CJ	REL	2026-11-04
+EMD-64724	CTP synthase dDON-condition state 2	Guo CJ	REL	2026-11-04
+EMD-64725	CTP synthase dDON-condition state 3	Guo CJ	REL	2026-11-04
+EMD-64726	CTP synthase dDON-condition state 4	Guo CJ	REL	2026-11-04
+EMD-64727	CTP synthase dDON-condition state 5	Guo CJ	REL	2026-11-04
+EMD-64728	CTP synthase dDON-condition state 6	Guo CJ	REL	2026-11-04
+EMD-64729	CTP synthase dDON-condition state 7	Guo CJ	REL	2026-11-04
+EMD-64730	CTP synthase dDON-condition state 8	Guo CJ	REL	2026-11-04
+EMD-65863	Cryo-EM structure of hACE2 in complex with antibodies F9-3S and F9-21	Chen R, Zhang C	REL	2026-11-04
+EMD-66786	Cryo-EM structure of Saccharomyces cerevisiae Mitochondrial Respiratory Complex II in YF241131B-bound state	Li ZW, Ye Y, Yang GF	REL	2026-11-04
+EMD-66790	Type Ia alpha-synuclein filament amplified by One-Spin RT-QuIC from human plasma	Liu Y, Shi Y	REL	2026-11-04
+EMD-66791	Type Ib alpha-synuclein filament amplified by One-Spin RT-QuIC from human plasma	Liu Y, Shi Y	REL	2026-11-04
+EMD-66792	Type Ic alpha-synuclein filament amplified by One-Spin RT-QuIC from human plasma	Liu Y, Shi Y	REL	2026-11-04
+EMD-66794	Type IIb alpha-synuclein filament amplified by One-Spin RT-QuIC from human plasma	Liu Y, Shi Y	REL	2026-11-04
+EMD-66795	Type III alpha-synuclein filament amplified by One-Spin RT-QuIC from human plasma	Liu Y, Shi Y	REL	2026-11-04
+EMD-66797	Type I alpha-synuclein filament amplified from EV extraction buffer as a blank control for One-Spin RT-QuIC	Liu Y, Shi Y	REL	2026-11-04
+EMD-66798	Type II alpha-synuclein filament amplified from EV extraction buffer as a blank control for One-Spin RT-QuIC	Liu Y, Shi Y	REL	2026-11-04
+EMD-66803	Double-Gal ligand induced SBA nanotubule 1	Ye L, Li L, Chen G	REL	2026-11-04
+EMD-66808	YN-Gal induced SBA nanotubules at 4 Celsius degree	Ye L, Li L, Chen G	REL	2026-11-04
+EMD-66809	Y-Gal ligand induced SBA nanotubules	Ye L, Li L, Chen G	REL	2026-11-04
+EMD-66810	Y-Gal ligand induced SBA nanotubules at 60 Celsius degree	Ye L, Li L, Chen G	REL	2026-11-04
+EMD-66811	Y-Gal ligand induced SBA nanotubule 2 at 37 Celsius degree	Ye L, Li L, Chen G	REL	2026-11-04
+EMD-66812	Y-Gal induced SBA nanotubule 1 at 37 Celsius degree	Ye L, Li L, Chen G	REL	2026-11-04
+EMD-66813	Y-Gal ligand induced SBA nanotubule 3 at 37 Celsius degree	Ye L, Li L, Chen G	REL	2026-11-04
+EMD-66820	Y-Gal ligand induced SBA nanotubules at 4 Celsius degree	Ye L, Li L, Chen G	REL	2026-11-04
+EMD-66844	Type A 2N4R human tau filaments induced by heparan sulfate with a double-protofilament fold	Zeng W, Sun S, Shi Y, He Z	REL	2026-11-04
+EMD-66845	Type B 2N4R human tau filaments induced by heparan sulfate with a single-protofilament fold	Zeng W, Sun S, Shi Y, He Z	REL	2026-11-04
+EMD-66846	Type B 2N4R human tau filaments induced by heparan sulfate with a double-protofilament fold	Zeng W, Sun S, Shi Y, He Z	REL	2026-11-04
+EMD-66848	First-generation 2N4R human tau filaments seeded by Alzheimer's disease tau	Zeng W, Sun S, Shi Y, He Z	REL	2026-11-04
+EMD-66858	The cryo-EM structure of F-BF227 bound type1 amyloid beta 42 fibril	Zhao QY, Cao TY, Liu C, Li D	REL	2026-11-04
+EMD-66863	The cryo-EM structure of PBB3 bound type1 amyloid beta 42 fibril	Zhao QY, Cao TY, Liu C, Li D	REL	2026-11-04
+EMD-66865	The cryo-EM structure of F-FDDNP bound type1 amyloid beta 42 fibril	Zhao QY, Cao TY, Liu C, Li D	REL	2026-11-04
+EMD-66872	The cryo-EM structure of pFTAA bound type1 amyloid beta 43 fibril	Zhao QY, Cao TY, Liu C, Li D	REL	2026-11-04
+EMD-66876	Cryo-EM structure of deep sight fluorescence protein dsFP11	Qu YN, Ding GM, Xu ZH, Cao LX	REL	2026-11-04
+EMD-66887	The cryo-EM structure of F-PI2620 bound Tau PHF fibril	Zhao QY, Cao TY, Liu C, Li D	REL	2026-11-04
+EMD-66888	The cryo-EM structure of CongoRed bound Tau PHF fibril	Zhao QY, Cao TY, Liu C, Li D	REL	2026-11-04
+EMD-66889	The cryo-EM structure of PBB3 bound Tau PHF fibril	Zhao QY, Cao TY, Liu C, Li D	REL	2026-11-04
+EMD-66902	SARS-CoV-2 Omicron LP.8.1 spike trimer (S-6P) in complex with 3 ZL58 Fabs and 3 ZL525 Fabs	Niu C, Liu B, Gao X, Li Z, He J, Xiong X	REL	2026-11-04
+EMD-67954	insect ALKA channel	Zhang SS	REL	2026-11-04
+EMD-74044	factor VIIa-tissue factor-factor X-ixolaris complex	Andersen JF, Lei H	REL	2026-11-04
+EMD-74062	factor VIIa-tissue factor-factor X-ixolaris complex in calcium ion-containing buffer	Andersen JF, Lei H	REL	2026-11-04
+EMD-74115	Germline-like TCR156 bound to single-chain PAP-B2M-HLA-A*02	Wang N, Borowska MT, Jude KM, Garcia KC	REL	2026-11-04
+EMD-74116	Germline-like TCR156 bound to single-chain MART1-B2M-HLA-A*02	Wang N, Borowska MT, Jude KM, Garcia KC	REL	2026-11-04
+EMD-74117	Germline-like TCR156 bound to single-chain NYESO-B2M-HLA-A*02	Wang N, Borowska MT, Jude KM, Garcia KC	REL	2026-11-04
+EMD-74118	Germline-like TCR156 bound to single-chain poly-Ala-B2M-HLA-A*02	Wang N, Borowska MT, Jude KM, Garcia KC	REL	2026-11-04
+EMD-74119	TCR AS4.2 bound to single-chain PRPF3-B2M-HLA-B*27:05	Wang N, Borowska MT, Jude KM, Garcia KC	REL	2026-11-04
+EMD-74120	Germline-like TCR A3A bound to single-chain MAGE-A3-B2M-HLA*A01	Wang N, Borowska MT, Jude KM, Garcia KC	REL	2026-11-04
+EMD-74121	Germline-like A3A bound to single-chain Titin-B2M-HLA*A01	Wang N, Borowska MT, Jude KM, Garcia KC	REL	2026-11-04
+EMD-74571	EBV gB trimer with "deli" mutations (postfusion conformation)	McCallum M, Veesler D, Seattle Structural Genomics Center for Infectious Disease (SSGCID)	REL	2026-11-04
+EMD-74805	EBV gB trimer with "deliDoP" mutations and flexibly attached I5350A (prefusion-like conformation)	McCallum M, Veesler D	REL	2026-11-04
+EMD-74806	EBV gB trimer with "delta" mutations (intermediate-2 conformation)	McCallum M, Veesler D	REL	2026-11-04
+EMD-74807	EBV gB trimer with "deD" mutations (intermediate-1 conformation)	McCallum M, Veesler D, Seattle Structural Genomics Center for Infectious Disease (SSGCID)	REL	2026-11-04
+EMD-74811	EBV gB trimer with "deliDoP" mutations and I5350A2h (prefusion conformation) - Global refinement	McCallum M, Veesler D, Seattle Structural Genomics Center for Infectious Disease (SSGCID)	REL	2026-11-04
+EMD-74825	EBV gB trimer with "deliDoP" mutations and I5350A2h (prefusion conformation) - I5350A2h local refinement	McCallum M, Veesler D, Seattle Structural Genomics Center for Infectious Disease (SSGCID)	REL	2026-11-04
+EMD-74886	EBV gB trimer with "deliDoP" mutations and I5350A2h (prefusion conformation) - DIII-DV local refinement	McCallum M, Veesler D, Seattle Structural Genomics Center for Infectious Disease (SSGCID)	REL	2026-11-04
+EMD-74887	EBV gB trimer with "deliDoP" mutations and I5350A2hN (prefusion conformation) - DI-DV local refinement	McCallum M, Veesler D, Seattle Structural Genomics Center for Infectious Disease (SSGCID)	REL	2026-11-04
+EMD-74888	EBV gB trimer with "deliDoP" mutations and I5350A2hN (prefusion conformation) - I5350A2hN local refinement	McCallum M, Veesler D, Seattle Structural Genomics Center for Infectious Disease (SSGCID)	REL	2026-11-04
+EMD-74893	VZV gB trimer with "deliD" mutations	McCallum M, Veesler D, Seattle Structural Genomics Center for Infectious Disease (SSGCID)	REL	2026-11-04
+EMD-74896	SARS-CoV-2 S 2P with C-terminal 3X oP3h motif (RINEIER)	McCallum M, Veesler D, Seattle Structural Genomics Center for Infectious Disease (SSGCID)	REL	2026-11-04
+EMD-74897	SARS-CoV-2 S 2P with C-terminal 3X oP3h motif (RINEIER) - local refinement	McCallum M, Veesler D, Seattle Structural Genomics Center for Infectious Disease (SSGCID)	REL	2026-11-04
+EMD-74899	SARS-CoV-2 S 2P with C-terminal 4X oP3h motif (RINAIET)	McCallum M, Veesler D, Seattle Structural Genomics Center for Infectious Disease (SSGCID)	REL	2026-11-04
+EMD-74900	SARS-CoV-2 S 2P with C-terminal 4X oP3h motif (RINAIET) - local refinement	McCallum M, Veesler D, Seattle Structural Genomics Center for Infectious Disease (SSGCID)	REL	2026-11-04
+EMD-74903	HSV1 gB prefusion-2 trimers with "deliD" mutations	McCallum M, Veesler D, Seattle Structural Genomics Center for Infectious Disease (SSGCID)	REL	2026-11-04
+EMD-74906	HSV1 gB dimer of prefusion-1 trimer and prefusion-2 trimer with "deliD" mutations	McCallum M, Veesler D, Seattle Structural Genomics Center for Infectious Disease (SSGCID)	REL	2026-11-04
+EMD-74929	EBV gB trimer with "deliDoP" mutations and I5350A2h (prefusion conformation) - DII-DV local refinement	McCallum M, Veesler D, Seattle Structural Genomics Center for Infectious Disease (SSGCID)	REL	2026-11-04
+EMD-74931	EBV gB trimer with "deliDoP" mutations and I5350A2hN (prefusion conformation) - DII-DV local refinement	McCallum M, Veesler D, Seattle Structural Genomics Center for Infectious Disease (SSGCID)	REL	2026-11-04
+EMD-74932	3A3 and 3A5 plus EBV gB trimer with "deliDoP" mutations and I5350A2hN (prefusion conformation) - 3A3 local refinement	McCallum M, Veesler D, Seattle Structural Genomics Center for Infectious Disease (SSGCID)	REL	2026-11-04
+EMD-74933	3A3 and 3A5 plus EBV gB trimer with "deliDoP" mutations and I5350A2hN (prefusion conformation) - 3A5 local refinement	McCallum M, Veesler D, Seattle Structural Genomics Center for Infectious Disease (SSGCID)	REL	2026-11-04
+EMD-74934	CMV gB trimer with "deliDoP" mutations and I5350A2hN (prefusion conformation)	McCallum M, Veesler D, Seattle Structural Genomics Center for Infectious Disease (SSGCID)	REL	2026-11-04
+EMD-75883	Germline-like DMF5 bound to single-chain MART1-B2M-HLA-A*02	Wang N, Borowska MT, Jude KM, Garcia KC	REL	2026-11-04
+EMD-83867	3D reconstruction of a cross section of the Indo-Pacific bottlenose dolphin sperm midpiece	Raquellynda FS, Sutikno S	REL	2026-11-04
+EMD-49736	Cryo-EM structure of UL52 catalytic core in complex with UL8 subunit from Herpes Simplex Virus 1	Bermek O, Krahn JM, Viverette EG, Peele W, Dandey VP, Borgnia MJ, Williams RS	REL	2026-11-04
+EMD-49751	Cryo-EM focus refinement of UL5 and UL52 subunits of UL5/UL8/UL52 complex	Bermek O, Krahn JM, Viverette EG, Peele W, Dandey VP, Borgnia MJ, Williams RS	REL	2026-11-04
+EMD-49759	Cryo-EM structure of UL5/UL8/UL52 from Herpes Simplex Virus 1 in the presence of ATP-gamma-S	Bermek O, Krahn JM, Viverette EG, Peele W, Dandey VP, Borgnie MJ, Williams RS	REL	2026-11-04
+EMD-49900	Cryo-EM structure of UL5/UL52 heterodimer from Herpes Simplex Virus 1 in complex with Pritelivir and ssDNA	Bermek O, Krahn JM, Viverette EG, Peele W, Dandey VP, Borgnia MJ, Williams RS	REL	2026-11-04
+EMD-49928	Structure of SARS-CoV-2 BA.2 S Protein, closed	Liu Y, Wang K, Wang W, Kashyap S, Jih J, Imani A, Hsiai T, Zhou ZH	REL	2026-11-04
+EMD-49943	Structure of aptamer in complex with SARS-CoV-2 BA.2 S protein, open	Liu Y, Wang K, Wang W, Kashyap S, Jih J, Imani A, Hsiai T, Zhou ZH	REL	2026-11-04
+EMD-53490	Bovine complex I at pH 6.0 in the active state	Fisher W, Grba DN, Hirst J	REL	2026-11-04
+EMD-53491	Bovine complex I at pH 6.0 in the deactive state (consensus)	Fisher W, Grba DN, Hirst J	REL	2026-11-04
+EMD-53494	Bovine complex I at pH 6.0 in the deactive state (distal membrane domain)	Fisher W, Grba DN, Hirst J	REL	2026-11-04
+EMD-53495	Bovine complex I at pH 6.0 in the deactive state (composite)	Fisher W, Grba DN, Hirst J	REL	2026-11-04
+EMD-53503	Bovine complex I at pH 9.2 in the slack state	Fisher W, Grba DN, Hirst J	REL	2026-11-04
+EMD-55452	CRYO-EM CONSENSUS MAP OF EKVX HUMAN CANCER CELL LINE RIBOSOME : CLASS 4	Rajan KS, Yonath A	REL	2026-11-04
+EMD-56610	Cryo-EM structure of Acinetobacter baylyi endogenous LolDF with lipoprotein	Dong H, Tang X, Qiao W, Pang J	REL	2026-11-04
+EMD-56618	Ribosome of algae-fed tardigrade (R. varieornatus) - consensus map	Nogales Moral A, Zimmerli CE, Reinhard J, Khusainov I, Hollenstein D, Biswas A, Glushkova D, Schneider M, Kunieda T, Hartl M, Reber S, Bui KH, Beck M, Koehler A	REL	2026-11-04
+EMD-56619	Translating ribosome of algae-fed tardigrade (R. varieornatus) - eEF1A and tRNA (A/T-, P-, E-site) bound	Nogales Moral A, Zimmerli CE, Reinhard J, Khusainov I, Hollenstein D, Biswas A, Glushkova D, Schneider M, Kunieda T, Hartl M, Reber S, Bui KH, Beck M, Koehler A	REL	2026-11-04
+EMD-56620	Hibernating ribosome of algae-fed tardigrade (R. varieornatus) - eEF2, eIF5A, Cyp1 bound	Nogales Moral A, Zimmerli CE, Reinhard J, Khusainov I, Hollenstein D, Biswas A, Glushkova D, Schneider M, Kunieda T, Hartl M, Reber S, Bui KH, Beck M, Koehler A	REL	2026-11-04
+EMD-56622	Membrane bound hibernating ribosome of unfed tardigrade (R. varieornatus) - eEF2, eIF5A, Cyp1 bound	Nogales Moral A, Zimmerli CE, Reinhard J, Khusainov I, Hollenstein D, Biswas A, Glushkova D, Schneider M, Kunieda T, Hartl M, Reber S, Bui KH, Beck M, Koehler A	REL	2026-11-04
+EMD-56626	Hibernating ribosome of rehydrated tardigrade (R. varieornatus) - eEF2, eIF5A, Cyp1 bound	Nogales Moral A, Zimmerli CE, Reinhard J, Khusainov I, Hollenstein D, Biswas A, Glushkova D, Schneider M, Kunieda T, Hartl M, Reber S, Bui KH, Beck M, Koehler A	REL	2026-11-04
+EMD-56627	Hibernating ribosome of algae-fed tardigrade (R. varieornatus) - eEF2, eIF5A bound	Nogales Moral A, Zimmerli CE, Reinhard J, Khusainov I, Hollenstein D, Biswas A, Glushkova D, Schneider M, Kunieda T, Hartl M, Reber S, Bui KH, Beck M, Koehler A	REL	2026-11-04
+EMD-56629	Hibernating ribosome of unfed tardigrade (R. varieornatus) - eEF2, eIF5A bound - derived from classification with focused mask on A/P/E sites	Nogales Moral A, Zimmerli CE, Reinhard J, Khusainov I, Hollenstein D, Biswas A, Glushkova D, Schneider M, Kunieda T, Hartl M, Reber S, Bui KH, Beck M, Koehler A	REL	2026-11-04
+EMD-56630	Translating ribosome of unfed tardigrade (R. varieornatus) - tRNA (A-, P- site) bound	Nogales Moral A, Zimmerli CE, Reinhard J, Khusainov I, Hollenstein D, Biswas A, Glushkova D, Schneider M, Kunieda T, Hartl M, Reber S, Bui KH, Beck M, Koehler A	REL	2026-11-04
+EMD-56631	Ribosome of unfed tardigrade (R. varieornatus) - unassigned state	Nogales Moral A, Zimmerli CE, Reinhard J, Khusainov I, Hollenstein D, Biswas A, Glushkova D, Schneider M, Kunieda T, Hartl M, Reber S, Bui KH, Beck M, Koehler A	REL	2026-11-04
+EMD-56639	Ribosome of rehydrated tardigrade (R. varieornatus) - consensus map	Nogales Moral A, Zimmerli CE, Reinhard J, Khusainov I, Hollenstein D, Biswas A, Glushkova D, Schneider M, Kunieda T, Hartl M, Reber S, Bui KH, Beck M, Koehler A	REL	2026-11-04
+EMD-56641	Translating ribosome of rehydrated tardigrade (R. varieornatus) - eEF1A and tRNA (A/T-, P-, E-site) bound	Nogales Moral A, Zimmerli CE, Reinhard J, Khusainov I, Hollenstein D, Biswas A, Glushkova D, Schneider M, Kunieda T, Hartl M, Reber S, Bui KH, Beck M, Koehler A	REL	2026-11-04
+EMD-56642	Translating ribosome of rehydrated tardigrade (R. varieornatus) - tRNA (A-, P-site) bound	Nogales Moral A, Zimmerli CE, Reinhard J, Khusainov I, Hollenstein D, Biswas A, Glushkova D, Schneider M, Kunieda T, Hartl M, Reber S, Bui KH, Beck M, Koehler A	REL	2026-11-04
+EMD-56681	Cryo-EM structure of the RESC1-RESC2 complex bound to KREH2	Yelmar R, Dolce LG, Tengo L, Kowalinski E	REL	2026-11-04
+EMD-57113	Cryo-EM structure of Acinetobacter baylyi LolA bound LolDF with lipoprotein	Dong H, Tang X, Qiao W, Pang J	REL	2026-11-04
+EMD-57529	Structure of the soluble domain of chimeric Adenylyl cyclase 95 in complex with stimulatory G protein, ATPalphaS, and forskolin	Kantarci I, Korkhov VM	REL	2026-11-04
+EMD-57530	Structure of the occluded-state soluble domain of human Adenylyl cyclase 9 in complex with stimulatory G protein, ATPalphaS, and forskolin	Kantarci I, Korkhov VM	REL	2026-11-04
+EMD-57531	Structure of the ATPalphaS-bound soluble domain of human Adenylyl cyclase 9 in complex with stimulatory G protein, ATPalphaS, and forskolin	Kantarci I, Korkov VM	REL	2026-11-04
+EMD-58599	CryoEM structure of substrate engaged p97 in complex with Ufd1/Npl4 and C-terminal FAF1- State IV	Drakonaki A, van den Boom J, Kroening A, Meyer H, Gatsogiannis C	REL	2026-11-04
+EMD-58943	Cryo-EM structure of full-length plasminogen variant R561A	Pinkas M, Novacek J, Kasiarova L, Marek M	REL	2026-11-04
+EMD-59989	CryoEM structure of substrate engaged p97 in complex with Ufd1/Npl4 and C-terminal FAF1-State IV (non-normalized map)	Drakonaki A, van den Boom J, Kroening A, Meyer H, Gatsogiannis C	REL	2026-11-04
+EMD-65848	Cryo-EM structure of hACE2 in complex with antibodies F9-12S and F9-64	Chen R, Zhang C	REL	2026-11-04
+EMD-65857	Cryo-EM structure of hACE2 in complex with antibodies F9-43 and F9-64	Chen R, Zhang C	REL	2026-11-04
+EMD-65861	Cryo-EM structure of hACE2 in complex with antibodies F9-26 and F9-8S	Chen R, Zhang C	REL	2026-11-04
+EMD-65862	Cryo-EM structure of hACE2 in complex with NeoCoV RBD_MU3 and antibodies F9-63 and F9-64	Chen R, Zhang C	REL	2026-11-04
+EMD-66767	Cryo-EM structure of the 198 bp human nucleosome containing H3.2 C110A mutant	Oishi T, Hatazawa S, Kujirai T, Kato J, Kobayashi Y, Ogasawara M, Takizawa Y, Kurumizaka H	REL	2026-11-04
+EMD-66770	Cryo-EM structure of H3K122ac nucleosome	Oishi T, Hatazawa S, Kujirai T, Kato J, Kobayashi Y, Ogasawara M, Takizawa Y, Kurumizaka H	REL	2026-11-04
+EMD-66796	Alpha-synuclein filament amplified from preformed fibrils as a positive control for One-Spin RT-QuIC	Liu Y, Shi Y	REL	2026-11-04
+EMD-66802	Trible-Gal ligand induced SBA nanotubules	Ye L, Li L, Chen G	REL	2026-11-04
+EMD-66804	Double-Gal ligand induced SBA nanotubule 2	Ye L, Li L, Chen G	REL	2026-11-04
+EMD-66805	V-Gal ligand induced SBA nanotubule	Ye L, Li L, Chen G	REL	2026-11-04
+EMD-66806	YNNN-Gal ligand induced SBA nanotubules at 4 Celsius degree	Ye L, Li L, Chen G	REL	2026-11-04
+EMD-66807	YN-Gal ligand induced SBA nanotubules at 60 Celsius degree	Ye L, Li L, Chen G	REL	2026-11-04
+EMD-66847	2N4R human tau filaments induced by heparin	Zeng W, Sun S, Shi Y, He Z	REL	2026-11-04
+EMD-66849	Second-generation 2N4R human tau filaments seeded by Alzheimer's disease tau in the presence of heparan sulfate	Zeng W, Sun S, Shi Y, He Z	REL	2026-11-04
+EMD-66867	The cryo-EM structure of F-PI2620 bound type1 amyloid beta 42 fibril	Zhao QY, Cao TY, Liu C, Li D	REL	2026-11-04
+EMD-66868	The cryo-EM structure of PiB bound type1 amyloid beta 42 fibril	Zhao QY, Cao TY, Liu C, Li D	REL	2026-11-04
+EMD-66869	Cryo-EM structure of unnatural-base aptamer AptD1c with DENV1 NS1 tetramer	Sawada K, Sano FK, Shuto Y, Hirano H, Kusakizako T, Itoh Y, Kise Y, Nureki O	REL	2026-11-04
+EMD-66870	The cryo-EM structure of ThS bound type1 amyloid beta 42 fibril	Zhao QY, Cao TY, Liu C, Li D	REL	2026-11-04
+EMD-66871	Cryo-EM structure of unnatural-base aptamer AptD2 with DENV2 NS1	Sawada K, Sano FK, Shuto Y, Hirano H, Kusakizako T, Itoh Y, Kise Y, Nureki O	REL	2026-11-04
+EMD-66873	The cryo-EM structure of Congored bound type1 amyloid beta 42 fibril	Zhao QY, Cao TY, Liu C, Li D	REL	2026-11-04
+EMD-66886	The cryo-EM structure of ThS bound Tau PHF fibril	Zhao QY, Cao TY, Liu C, Li D	REL	2026-11-04
+EMD-68346	Cryo-EM Structure of Dimer-of-Dimers EcCaspase Bound to N7-cADPR	Hao F, Xin X	REL	2026-11-04
+EMD-70335	Cryo-EM structure of the CIII2 with YlbA from Bacillus subtilis	Gu M, Zheng W, Zong Y, Zhang K, Zhu J	REL	2026-11-04
+EMD-70336	Cryo-EM structure of the CIII2 without YlbA from Bacillus subtilis	Zong Y, Zheng W, Gu M, Zhang K, Zhu J	REL	2026-11-04
+EMD-73505	Pyrin CTD volume in the Pyrin inhibited complex	Liu L, Wu H	REL	2026-11-04
+EMD-73649	Open state of D-ornithine 4,5-aminomutase from Fervidobacterium nodosum	Tjia-Fleck S, Tian S, Vago F	REL	2026-11-04
+EMD-73650	Closed state of D-ornithine 4,5-aminomutase from Fervidobacterium nodosum	Tjia-Fleck S, Tian S, Vago F	REL	2026-11-04
+EMD-75737	Cryo-EM structure of pSTAT1 bound to importin alpha 5 (4:2 assembly)	Kumar P, Bellis NF, Yang R, Vinkemeier U, Cingolani G	REL	2026-11-04
+EMD-75922	Cryo-EM structure of CAS:Ran-GTP:importin alpha 5 complex	Kumar P, Suinn SS, Bellis FN, Vinkemeier U, Cingolani G	REL	2026-11-04
+EMD-77746	Cryo-EM Structure of RSV Polymerase (L:P) Bound to Tr3-mimic RNA (TrC12-4U-Tr3), Unreacted Tr3-mimic Form A	Cao D, Liang B, Gao Y, Roesler C, Gooneratne I, Liang B	REL	2026-11-04
+EMD-77747	Cryo-EM Structure of RSV Polymerase (L:P) Bound to Tr3-mimic RNA (TrC12-4U-Tr3), Unreacted Tr3-mimic Form B	Cao D, Liang B, Gao Y, Roesler C, Gooneratne I, Liang B	REL	2026-11-04
+EMD-78146	Cryo-EM structure of the human mitochondrial transcription initiation complex on HSP without TFAM	Sharkey R, Gao Y	REL	2026-11-04
+EMD-78147	Cryo-EM structure of the human mitochondrial transcription initiation complex on HSP with TFAM	Sharkey R, Gao Y	REL	2026-11-04
+EMD-78204	Interferon-alpha8 complexed with IFA002 monoclonal antibody and IFNAR2, global cryoEM	Rubio AA, Vasquez S, Barnes CO	REL	2026-11-04
+EMD-78324	48S closed head conformation	Zottig X, Huang C-Y, Seraj Z, Grigorieff N, Korostelev AA	REL	2026-11-04
+EMD-78325	5MP (eIF1S) 43-like complex *only eIF3c subunit	Zottig X, Huang C-Y, Seraj Z, Grigorieff N, Korostelev AA	REL	2026-11-04
+EMD-78337	Cryo-EM structure of human beta-cardiac myosin carrying the E525K mutation in the Interacting-Heads Motif state	Somavarapu AK, Gautam R, Craig R, Padron R, Craig R, Padron R	REL	2026-11-04
+EMD-78401	Human beta-cardiac myosin S1 motor domain with the essential light chain in the pre-powerstroke state	Somavarapu AK, Gautam R, Craig R, Padron R	REL	2026-11-04
+EMD-78403	Human beta-cardiac myosin S1 motor domain carrying the E525K mutation with the essential light chain in the pre-powerstroke state	Somavarapu AK, Gautam R, Craig R, Padron R	REL	2026-11-04
+EMD-78501	Cryo-EM structure of human Fibroblast Activation Protein alpha in complex with H4 VNAR	Broadberry RL, Ott KL, Lake EW, Hemme CA, LeBeau AM, Grant T	REL	2026-11-04
+EMD-78502	Cryo-EM structure of human Fibroblast Activation Protein alpha in complex with huB12 IgG	Broadberry RL, Ott KL, Lake EW, Hemme CA, LeBeau AM, Grant T	REL	2026-11-04
+EMD-78503	Cryo-EM structure of human Fibroblast Activation Protein alpha in complex with F7 VHH	Broadberry RL, Ott KL, Lake EW, Hemme CA, Chi S, LeBeau AM, Grant T	REL	2026-11-04
+EMD-78600	Nucleosome containing a nick with a 3'-phosphate and 5'-OH at SHL-3	Boesch DJ, Evans JJ, Weaver TM	REL	2026-11-04
+EMD-78604	Nucleosome containing a nick with a 3'-phosphate and 5'-OH at SHL-4	Boesch DJ, Evans JJ, Weaver TM	REL	2026-11-04
+EMD-78605	Polynucleotide kinase phosphatase bound to a nucleosome containing a nick with a 3'-phosphate and 5'-OH at SHL-4 (catalytic, composite)	Boesch DJ, Evans JJ, Weaver TM	REL	2026-11-04
+EMD-78606	Polynucleotide kinase phosphatase bound to a nucleosome containing a nick with a 3'-phosphate and 5'-OH at SHL-4 (catalytic-FHA, composite)	Boesch DJ, Evans JJ, Weaver TM	REL	2026-11-04
+EMD-78608	Nucleosome containing a nick with a 3'-phosphate and 5'-OH at SHL-5	Boesch DJ, Evans JJ, Weaver TM	REL	2026-11-04
+EMD-78611	Polynucleotide kinase phosphatase bound to a nucleosome containing a nick with a 3'-phosphate and 5'-OH at SHL-5 (FHA, composite)	Boesch DJ, Evans JJ, Weaver TM	REL	2026-11-04
+EMD-78619	Polynucleotide kinase phosphatase bound to a nucleosome containing a nick with a 3'-phosphate and 5'-OH at SHL-4 (catalytic, consensus)	Boesch DJ, Evans JJ, Weaver TM	REL	2026-11-04
+EMD-78620	Polynucleotide kinase phosphatase bound to a nucleosome containing a nick with a 3'-phosphate and 5'-OH at SHL-4 (catalytic, PNKP/DNA local refine)	Boesch DJ, Evans JJ, Weaver TM	REL	2026-11-04
+EMD-78621	Polynucleotide kinase phosphatase bound to a nucleosome containing a nick with a 3'-phosphate and 5'-OH at SHL-4 (catalytic-FHA, consensus)	Boesch DJ, Evans JJ, Weaver TM	REL	2026-11-04
+EMD-78622	Polynucleotide kinase phosphatase bound to a nucleosome containing a nick with a 3'-phosphate and 5'-OH at SHL-4 (catalytic-FHA, FHA local refine)	Boesch DJ, Evans JJ, Weaver TM	REL	2026-11-04
+EMD-78623	Polynucleotide kinase phosphatase bound to a nucleosome containing a nick with a 3'-phosphate and 5'-OH at SHL-4 (catalytic-FHA, PNKP/DNA local refine)	Boesch DJ, Evans JJ, Weaver TM	REL	2026-11-04
+EMD-78624	Polynucleotide kinase phosphatase bound to a nucleosome containing a nick with a 3'-phosphate and 5'-OH at SHL-4 (FHA, consensus)	Boesch DJ, Evans JJ, Weaver TM	REL	2026-11-04
+EMD-78631	Polynucleotide kinase phosphatase bound to a nucleosome containing a nick with a 3'-phosphate and 5'-OH at SHL-5 (FHA, consensus)	Boesch DJ, Evans JJ, Weaver TM	REL	2026-11-04
+EMD-78632	Polynucleotide kinase phosphatase bound to a nucleosome containing a nick with a 3'-phosphate and 5'-OH at SHL-5 (FHA, FHA local refine)	Boesch DJ, Evans JJ, Weaver TM	REL	2026-11-04
+EMD-78826	Cryo-EM structure of apo-pSTAT1	Kumar P, Bellis NF, Vinkemeier U, Cingolani G	REL	2026-11-04
+EMD-79237	Cryo-EM structure of pSTAT1 bound to importin alpha 5 (2:1 assembly)	Kumar P, Vinkemeier U, Cingolani G	REL	2026-11-04
+EMD-79292	Lepidopteran Chorion Central Domain Amyloid Fibril Polymorph 4	Kunach P, Lovestam S, Konstantoulea A, Louros N	REL	2026-11-04
+EMD-79695	Candida albicans ribosome in the hibernating state reconstructed using 2D template matching from in-situ micrographs	Elferich J, Plumb E, Arkowitz RA, Grigorieff N	REL	2026-11-04
+EMD-80696	Cryo-EM ternary structure of CD1c presenting a mycobacterial lipid to a T cell receptor	Cao TP, Shahine A, Rossjohn J	REL	2026-11-04
+EMD-82523	Cryo-EM Structure of Tetrameric EcCaspase Filament in Apo State	Hao F, Xin X	REL	2026-11-04
+EMD-82525	Cryo-EM Structure of Dimeric EcCaspase Filament in Apo State	Hao F, Xin X	REL	2026-11-04
+EMD-84213	Synaptotagmin-1 molecules from the 0 mM Ca2+ Cluster 3	Purba ER, Ofverstedt LG, Skuglund U	REL	2026-11-04
+EMD-84215	Synaptotagmin-1 molecules from the 0 mM Ca2+ Cluster 5	Purba ER, Ofverstedt LG, Skuglund U	REL	2026-11-04
+EMD-84219	Synaptotagmin-1 molecules from the 0 mM Ca2+ Cluster 9	Purba ER, Ofverstedt LG, Skuglund U	REL	2026-11-04
+EMD-84231	Synaptotagmin-1 molecules from the 0 mM Ca2+ Cluster 12	Purba ER, Ofverstedt LG, Skuglund U	REL	2026-11-04
+EMD-100131	Paired helical filament from Alzheimer's disease brain (AD seed)	Huang M, Lovestam S, Scheres SHW, Goedert M	REL	2026-11-04
+EMD-53497	Bovine complex I at pH 9.2 in the active state	Fisher W, Grba DN, Hirst J	REL	2026-11-04
+EMD-55879	ARP module of ncBAF bound to numcleosome	Arias Pinto C, Guan Y, Concordet JP, Ben-Shem A, Papai G	REL	2026-11-04
+EMD-55880	Focus refined map of ncBAF bound to nucleosome on BCL7A	Arias Pinto C, Guan Y, Concordet JP, Ben-Shem A, Papai G	REL	2026-11-04
+EMD-55881	Focus refined map of ncBAF bound to nucleosome on BRD9 grip helix	Arias Pinto C, Guan Y, Concordet JP, Ben-Shem A, Papai G	REL	2026-11-04
+EMD-55882	Focus refinem map of ncBAF bound to nucleosome on the SMARCA4 motor domain	Arias Pinto C, Guan Y, Concordet JP, Ben-Shem A, Papai G	REL	2026-11-04
+EMD-55883	Focus refined map of ncBAf bound to nucleosome on the nucleosome	Arias Pinto C, Guan Y, Concordet JP, Ben-Shem A, Papai G	REL	2026-11-04
+EMD-55885	Focus refined map of ncBAF bound to nucleosome on the SnAC domain of SAMRCA4	Arias Pinto C, Guan Y, Concordet JP, Ben-Shem A, Papai G	REL	2026-11-04
+EMD-55886	Consensus EM map of ncBAF bound to nucleosome	Arias Pinto C, Guan Y, Concordet JP, Ben-Shem A, Papai G	REL	2026-11-04
+EMD-55887	Structure of endogenous human ncBAF bound to nucleosome	Arias Pinto C, Guan Y, Concordet JP, Ben-Shem A, Papai G	REL	2026-11-04
+EMD-56621	Ribosome of unfed tardigrade (R. varieornatus) - consensus map	Nogales Moral A, Zimmerli CE, Reinhard J, Khusainov I, Hollenstein D, Biswas A, Glushkova D, Schneider M, Kunieda T, Hartl M, Reber S, Bui KH, Beck M, Koehler A	REL	2026-11-04
+EMD-56623	Hibernating ribosome of unfed tardigrade (R. varieornatus) - eEF2, eIF5A, Cyp1 bound	Nogales Moral A, Zimmerli CE, Reinhard J, Khusainov I, Hollenstein D, Biswas A, Glushkova D, Schneider M, Kunieda T, Hartl M, Reber S, Bui KH, Beck M, Koehler A	REL	2026-11-04
+EMD-56624	Hibernating ribosome of rehydrated tardigrade (R. varieornatus) - eEF2, eIF5A bound	Nogales Moral A, Zimmerli CE, Reinhard J, Khusainov I, Hollenstein D, Biswas A, Glushkova D, Schneider M, Kunieda T, Hartl M, Reber S, Bui KH, Beck M, Koehler A	REL	2026-11-04
+EMD-56625	Hibernating ribosome of rehydrated tardigrade (R. varieornatus) - eEF2 bound	Nogales Moral A, Zimmerli CE, Reinhard J, Khusainov I, Hollenstein D, Biswas A, Glushkova D, Schneider M, Kunieda T, Hartl M, Reber S, Bui KH, Beck M, Koehler A	REL	2026-11-04
+EMD-56628	Translating ribosome of algae-fed tardigrade (R. varieornatus) - tRNA (P-, E-site) bound	Nogales Moral A, Zimmerli CE, Reinhard J, Khusainov I, Hollenstein D, Biswas A, Glushkova D, Schneider M, Kunieda T, Hartl M, Reber S, Bui KH, Beck M, Koehler A	REL	2026-11-04
+EMD-56632	Translating ribosome of unfed tardigrade (R. varieornatus) - eEF1A, tRNA (A/T-, P-, E-site) bound	Nogales Moral A, Zimmerli CE, Reinhard J, Khusainov I, Hollenstein D, Biswas A, Glushkova D, Schneider M, Kunieda T, Hartl M, Reber S, Bui KH, Beck M, Koehler A	REL	2026-11-04
+EMD-56633	Translating ribosome of unfed tardigrade (R. varieornatus) - eEF1A, tRNA (A/T-, P-site) bound	Nogales Moral A, Zimmerli CE, Reinhard J, Khusainov I, Hollenstein D, Biswas A, Glushkova D, Schneider M, Kunieda T, Hartl M, Reber S, Bui KH, Beck M, Koehler A	REL	2026-11-04
+EMD-56634	Ribosome of unfed tardigrade (R. varieornatus) - ebp1, eEF2, eIF5A bound	Nogales Moral A, Zimmerli CE, Reinhard J, Khusainov I, Hollenstein D, Biswas A, Glushkova D, Schneider M, Kunieda T, Hartl M, Reber S, Bui KH, Beck M, Koehler A	REL	2026-11-04
+EMD-56635	Membrane bound ribosome of unfed tardigrade (R. varieornatus) - consensus map	Nogales Moral A, Zimmerli CE, Reinhard J, Khusainov I, Hollenstein D, Biswas A, Glushkova D, Schneider M, Kunieda T, Hartl M, Reber S, Bui KH, Beck M, Koehler A	REL	2026-11-04
+EMD-56636	Hibernating ribosome of unfed tardigrade (R. varieornatus) - eEF2, eIF5A bound - derived from classification with focused mask on membrane	Nogales Moral A, Zimmerli CE, Reinhard J, Khusainov I, Hollenstein D, Biswas A, Glushkova D, Schneider M, Kunieda T, Hartl M, Reber S, Bui KH, Beck M, Koehler A	REL	2026-11-04
+EMD-56637	Membrane bound ribosome of unfed tardigrade (R. varieornatus) - eEF1A, tRNA (A/T-, P-, E-site) bound	Nogales Moral A, Zimmerli CE, Reinhard J, Khusainov I, Hollenstein D, Biswas A, Glushkova D, Schneider M, Kunieda T, Hartl M, Reber S, Bui KH, Beck M, Koehler A	REL	2026-11-04
+EMD-57887	Cryo-EM structure of Acinetobacter baumannii LolDF bound to abaucin with lipoprotein	Dong H, Tang X, Pang J, Chen Y, ZeRang Z	REL	2026-11-04
+EMD-58590	Consensus map of substrate engaged p97 in complex with Ufd1/Npl4 and C-terminal FAF1- State II	Drakonaki A, van den Boom J, Kroening A, Meyer H, Gatsogiannis C	REL	2026-11-04
+EMD-58591	Focused map of substrate engaged p97 in complex with Ufd1/Npl4 and C-terminal FAF1- State II (Npl4)	Drakonaki A, van den Boom J, Kroening A, Meyer H, Gatsogiannis C	REL	2026-11-04
+EMD-58592	Focused map of substrate engaged p97 in complex with Ufd1/Npl4 and C-terminal FAF1 (FAF1)	Drakonaki A, van den Boom J, Kroening A, Meyer H, Gatsogiannis C	REL	2026-11-04
+EMD-58593	CryoEM structure of substrate engaged p97 in complex with Ufd1/Npl4 and C-terminal FAF1- State II	Drakonaki A, van den Boom J, Kroening A, Meyer H, Gatsogiannis C	REL	2026-11-04
+EMD-58594	Consensus map of substrate engaged p97 in complex with Ufd1/Npl4 and C-terminal FAF1- State III	Drakonaki A, van den Boom J, Kroening A, Meyer H, Gatsogiannis C	REL	2026-11-04
+EMD-58596	CryoEM structure of substrate engaged p97 in complex with Ufd1/Npl4 and C-terminal FAF1- State III	Drakonaki A, van den Boom J, Kroening A, Meyer H, Gatsogiannis C	REL	2026-11-04
+EMD-58649	DNA-bound POLQTaqChimera in complex with compound 41	Shilliday F, Maia de Oliveira T	REL	2026-11-04
+EMD-58994	Cryo-EM structure of the native metallopterin-binding domain of molybdoenzyme ergothioneine synthase from Caldithrix abyssi	Jakob RP, Alim GS, Seebeck FP	REL	2026-11-04
+EMD-58995	Cryo-EM structure of the persulfide-bound metallopterin-binding domain of molybdoenzyme ergothioneine synthase from Caldithrix abyssi	Jakob RP, Alim GS, Seebeck FP	REL	2026-11-04
+EMD-58996	Cryo-EM structure of full-length molybdoenzyme ergothioneine synthase from Caldithrix abyssi	Jakob RP, Alin GS, Seebeck FP	REL	2026-11-04
+EMD-59639	Paired helical filament with the V337M mutation from seeded primary murine neurons	Huang M, Goedert M, Scheres SHW	REL	2026-11-04
+EMD-59642	Single protofilament with the Alzheimer tau fold and the V337M mutation from seeded primary murine neurons	Huang M, Scheres SHW, Goedert M	REL	2026-11-04
+EMD-63668	Cryo-EM structure of human UHRF1 bound to mononucleosome with hemimethylated DNA at superhelical location -6.2.	Naschberger A, Baradaran R, Sayed A, Fischle W	REL	2026-11-04
+EMD-64329	Cryo-EM structure of hemagglutinin from the A/California/04/2009 (H1N1) influenza virus with stabilizing mutations	Kim YG, Lee GY, Lee JO	REL	2026-11-04
+EMD-66835	Cryo-EM structure of Retron-ATPaseHNH	Hu C, Zhang S, Wang Q	REL	2026-11-04
+EMD-66877	Cryo-EM map of the native ARC-bound 70S ribosome from stationary-phase Methanolobus	Zhu L, Yi C, Li W	REL	2026-11-04
+EMD-66880	Cryo-EM map of the native ARC-bound 70S ribosome from oxygen-stressed Methanolobus	Zhu L, Yi C, Li W	REL	2026-11-04
+EMD-66885	Cryo-EM map of the 50S ribosomal subunit from oxygen-stressed Methanolobus	Zhu L, Yi C, Li W	REL	2026-11-04
+EMD-68127	Cdc48-Ufd1-Npl4 complex processing Ub6 in the presence of ubx2	Pan M, Liu L, Zheng Q	REL	2026-11-04
+EMD-68128	Cdc48-Ufd1-Npl4 complex processing polyUbEOS in the presence of ubx2	Pan M, Liu L, Zheng Q	REL	2026-11-04
+EMD-68757	structure of a permease	jinru Z, jinru Z	REL	2026-11-04
+EMD-68758	structure of a permease	Jinru Z, Jinru Z	REL	2026-11-04
+EMD-68759	structure of full permease	jinru Z, jinru Z	REL	2026-11-04
+EMD-68760	structure of a permease	Jinru Z, Jinru Z, Jinru Z	REL	2026-11-04
+EMD-69022	Complex structure of a permease	Zhang J, Zhang J	REL	2026-11-04
+EMD-69023	Complex structure of a permease	Zhang J, Zhang J	REL	2026-11-04
+EMD-70329	Cryo-EM structure of the CIII2 featuring FES in c-position from Bacillus subtilis	Zheng W, Gu M, Zong Y, Zhu J, Zhang K	REL	2026-11-04
+EMD-70330	High-resolution cryo-EM structure of the CIII2CIV1 respiratory supercomplex from Bacillus subtilis (composite)	Zheng W, Gu M, Zong Y, Zhu J, Zhang K	REL	2026-11-04
+EMD-70332	High-resolution cryo-EM structure of the cytochrome bc complex (CIII2) from Bacillus subtilis (composite)	Zong Y, Zheng W, Gu M, Zhang K, Zhu J	REL	2026-11-04
+EMD-70333	Cryo-EM structure of the CIII2CIV1 respiratory supercomplex from Bacillus subtilis	Zheng W, Gu M, Zong Y, Zhu J, Zhang K	REL	2026-11-04
+EMD-70334	Cryo-EM structure of the CIII2 featuring FES in b-position from Bacillus subtilis	Gu M, Zheng W, Zong Y, Zhang K, Zhu J	REL	2026-11-04
+EMD-70337	Cryo-EM structure of the cytochrome bc complex (CIII2) from Bacillus subtilis with multiple Qi site menaquinone binding	Gu M, Zheng W, Zong Y, Zhang K, Zhu J	REL	2026-11-04
+EMD-73468	HIV-1 CA hexamer-hexamer interface from purified viral cores (consensus)	Pornillos O, Ganser-Pornillos BK, Barros dos Santos NF	REL	2026-11-04
+EMD-73469	HIV-1 CA hexamer-hexamer interface from purified viral cores tilt 23.0 twist -4.7	Pornillos O, Ganser-Pornillos BK, Barros dos Santos NF	REL	2026-11-04
+EMD-73470	HIV-1 CA hexamer-hexamer interface from purified viral cores tilt 16.6 twist -1.5	Pornillos O, Ganser-Pornillos BK, Barros dos Santos NF	REL	2026-11-04
+EMD-73471	HIV-1 CA hexamer-hexamer interface from purified viral cores tilt 9.8 twist 1.9	Pornillos O, Ganser-Pornillos BK, Barros dos Santos NF	REL	2026-11-04
+EMD-73472	HIV-1 CA hexamer-hexamer interface from purified viral cores tilt 21.1 twist 4.1	Pornillos O, Ganser-Pornillos BK, Barros dos Santos NF	REL	2026-11-04
+EMD-73473	HIV-1 CA hexamer-hexamer interface from purified viral cores tilt 17.4 twist -2.1	Pornillos O, Ganser-Pornillos BK, Barros dos Santos NF	REL	2026-11-04
+EMD-73543	Hypomethylated nucleoplasmic pre-60S intermediate containing Nog2 at Rsa4-arrested 5S post-rotation state	Zhao Y, Li H	REL	2026-11-04
+EMD-73560	Structure of E04 Fab in complex with B/Lee40/1940 influenza B virus hemagglutinin	Mou Z, Lei R, Lv H, Dai X, Wu N	REL	2026-11-04
+EMD-73747	cryoEM map of dsDNA bound SaPIbov1 Rep helicase	Shin H, Rice PA	REL	2026-11-04
+EMD-73820	Cryo-EM of the sarco(endo)plasmic reticulum calcium ATPase (SERCA) in presence of calcium and compound UM-52 (bound)	Nguyen VH, Primeau JO, Cruz-Cortes C, Lemieux MJ, Espinoza-Fonseca LM, Young HS	REL	2026-11-04
+EMD-73822	Cryo-EM of the sarco(endo)plasmic reticulum calcium ATPase (SERCA) in presence of calcium and compound UM-52 (unbound)	Nguyen VH, Primeau JO, Cruz-Cortes C, Lemieux MJ, Espinoza-Fonseca LM, Young HS	REL	2026-11-04
+EMD-73823	Cryo-EM of the sarco(endo)plasmic reticulum calcium ATPase (SERCA) in presence of calcium and CDN1163	Nguyen VH, Primeau JO, Cruz-Cortes C, Lemieux MJ, Espinoza-Fonseca LM, Young HS	REL	2026-11-04
+EMD-74909	HSV1 gB prefusion-1 trimers with "deliD" mutations	McCallum M, Veesler D	REL	2026-11-04
+EMD-74936	HHV6B gB trimer with "deliDoP" mutations and I5350A2h (prefusion conformation) - DII-DV local refinement	McCallum M, Veesler D, Seattle Structural Genomics Center for Infectious Disease (SSGCID)	REL	2026-11-04
+EMD-76336	AHA hibernation factor bound to the 70S ribosome of Haloferax volcanii	Souza DP, Davis JH	REL	2026-11-04
+EMD-77727	Cryo-EM structure of Fluc-Nte in complex with cAMP-bound Fcap	Kang C-Y, Stockbridge RB	REL	2026-11-04
+EMD-77728	Cryo-EM structure of Fluc-Nte in complex with ADP-bound Fcap	Kang C-Y, Stockbridge RB	REL	2026-11-04
+EMD-78601	Polynucleotide kinase phosphatase bound to a nucleosome containing a nick with a 3'-phosphate and 5'-OH at SHL-3 (catalytic, composite)	Boesch DJ, Evans JJ, Weaver TM	REL	2026-11-04
+EMD-78607	Polynucleotide kinase phosphatase bound to a nucleosome containing a nick with a 3'-phosphate and 5'-OH at SHL-4 (FHA, composite)	Boesch DJ, Evans JJ, Weaver TM	REL	2026-11-04
+EMD-78609	Polynucleotide kinase phosphatase bound to a nucleosome containing a nick with a 3'-phosphate and 5'-OH at SHL-5 (catalytic, composite)	Boesch DJ, Evans JJ, Weaver TM	REL	2026-11-04
+EMD-78610	Polynucleotide kinase phosphatase bound to a nucleosome containing a nick with a 3'-phosphate and 5'-OH at SHL-5 (catalytic-FHA, composite)	Boesch DJ, Evans JJ, Weaver TM	REL	2026-11-04
+EMD-78612	Polynucleotide kinase phosphatase bound to a nucleosome containing a nick with a 3'-phosphate and 5'-OH at SHL-3 (catalytic, consensus)	Boesch DJ, Evans JJ, Weaver TM	REL	2026-11-04
+EMD-78613	Polynucleotide kinase phosphatase bound to a nucleosome containing a nick with a 3'-phosphate and 5'-OH at SHL-3 (catalytic, PNKP/DNA local refine)	Boesch DJ, Evans JJ, Weaver TM	REL	2026-11-04
+EMD-78625	Polynucleotide kinase phosphatase bound to a nucleosome containing a nick with a 3'-phosphate and 5'-OH at SHL-4 (FHA, FHA local refine)	Boesch DJ, Evans JJ, Weaver TM	REL	2026-11-04
+EMD-78626	Polynucleotide kinase phosphatase bound to a nucleosome containing a nick with a 3'-phosphate and 5'-OH at SHL-5 (catalytic, consensus)	Boesch DJ, Evans JJ, Weaver TM	REL	2026-11-04
+EMD-78627	Polynucleotide kinase phosphatase bound to a nucleosome containing a nick with a 3'-phosphate and 5'-OH at SHL-5 (catalytic, PNKP/DNA local refine)	Boesch DJ, Evans JJ, Weaver TM	REL	2026-11-04
+EMD-78628	Polynucleotide kinase phosphatase bound to a nucleosome containing a nick with a 3'-phosphate and 5'-OH at SHL-5 (catalytic-FHA, consensus)	Boesch DJ, Evans JJ, Weaver TM	REL	2026-11-04
+EMD-79703	SaPIbov1 Rep:dsDNA component 0 frame 0	Shin H, Rice PA	REL	2026-11-04
+EMD-79709	SaPIbov1 Rep:dsDNA component 2 frame 0	Shin H, Rice PA	REL	2026-11-04
+EMD-79710	SaPIbov1 Rep:dsDNA component 1 frame 9	Shin H, Rice PA	REL	2026-11-04
+EMD-79770	CryoEM structure of the infectious flacherie virus of silkworm	Tang L, Bando H, Johnson JE	REL	2026-11-04
+EMD-80686	Structure of recombinant RyR2 in complex with Ryanozole in the closed conformation (Ca2+ dataset)	Otori Y, Takeuchi S, Ogawa H	REL	2026-11-04
+EMD-81468	smKCS-smCER2 complex in Apo state	Wang Y, Wang H, Xu Y, Wang Q, Cheng Y	REL	2026-11-04
+EMD-81469	smKCS6-smCER2 complex carrying the V434N mutation in smKCS6	Wang Y, Wang H, Xu Y, Wang Q, Cheng Y	REL	2026-11-04
+EMD-81470	smKCS-smCER2 in complex with C22-CoA	Wang Y, Wang H, Xu Y, Wang Q, Cheng Y	REL	2026-11-04
+EMD-81471	smKCS-smCER2 in complex with MCoA	Wang Y, Wang H, Xu Y, Wang Q, Cheng Y	REL	2026-11-04
+EMD-81472	smKCS-smCER2 in complex with C22-CoA and MCoA	Wang Y, Wang H, Xu Y, Wang Q, Cheng Y	REL	2026-11-04
+EMD-82528	Cryo-EM Structure of Dimer-of-Dimers EcCaspase in Apo State	Hao F, Xin X	REL	2026-11-04
+EMD-82529	Cryo-EM Structure of Tetrameric EcCaspase Filament Bound to N7-cADPR	Hao F, Xin X	REL	2026-11-04
+EMD-84216	Synaptotagmin-1 molecules from the 0 mM Ca2+ Cluster 6	Purba ER, Ofverstedt LG, Skuglund U	REL	2026-11-04
+EMD-84217	Synaptotagmin-1 molecules from the 0 mM Ca2+ Cluster 7	Purba ER, Ofverstedt LG, Skuglund U	REL	2026-11-04
+EMD-84218	Synaptotagmin-1 molecules from the 0 mM Ca2+ Cluster 8	Purba ER, Ofverstedt LG, Skuglund U	REL	2026-11-04
+EMD-84221	Synaptotagmin-1 molecules from the 0 mM Ca2+ Cluster 10	Purba ER, Ofverstedt LG, Skuglund U	REL	2026-11-04
+EMD-84230	Synaptotagmin-1 molecules from the 0 mM Ca2+ Cluster 11	Purba ER, Ofverstedt LG, Skuglund U	REL	2026-11-04
+EMD-84326	Cryo-EM map of Escherichia coli GroEL	Varsha V, Das U, Sharma S	REL	2026-11-04
+EMD-84355	Cryo-EM map of Escherichia coli GroEL bound to denatured luciferase	Varsha V, Das U, Sharma S	REL	2026-11-04
+EMD-48878	Amino-terminal domain for GluK2 in the apo state with asymmetric ligand binding domain	Gangwar SP, Yelshanskaya MV, Yen LY, Newton TP, Sobolevsky AI	REL	2026-11-04
+EMD-48879	Ligand-binding and transmembrane domains for GluK2 in the apo state with asymmetric ligand binding domain	Gangwar SP, Yelshanskaya MV, Yen LY, Newton TP, Sobolevsky AI	REL	2026-11-04
+EMD-48880	Amino-terminal domain for GluK2 in the apo state with 2-fold symmetrical ligand-binding domain	Gangwar SP, Yelshanskaya MV, Yen LY, Newton TP, Sobolevsky AI	REL	2026-11-04
+EMD-48881	Ligand-binding and transmembrane domains for GluK2 in the apo state with 2-fold symmetrical ligand binding domain	Gangwar SP, Yelshanskaya MV, Yen LY, Newton TP, Sobolevsky AI	REL	2026-11-04
+EMD-48931	SSU processome maturation and disassembly, State A - Bfr2Kre33 focused map	Buzovetsky O, Klinge S	REL	2026-11-04
+EMD-49065	Consensus map for GluK2 in the apo state with asymmetric ligand binding domain	Gangwar SP, Yelshanskaya MV, Yen LY, Newton TP, Sobolevsky AI	REL	2026-11-04
+EMD-49066	Consensus map for GluK2 in the apo state with 2-fold symmetrical ligand-binding domain	Gangwar SP, Yelshanskaya MV, Yen LY, Newton TP, Sobolevsky AI	REL	2026-11-04
+EMD-49750	Cryo-EM focus refinement of UL8 subunit of UL5/UL8/UL52 complex	Bermek O, Krahn JM, Viverette EG, Peele W, Dandey VP, Borgnia MJ, Williams RS	REL	2026-11-04
+EMD-49927	structure of SARS-CoV-2 BA.2 S protein, closed	Liu Y, Wang K, Wang W, Kashyap S, Jih J, Imani A, Hsiai T, Zhou ZH	REL	2026-11-04
+EMD-52872	Recombinant spore-silk A-ENA fibers	Sleutel M, Sogues A, Remaut H	REL	2026-11-04
+EMD-52882	Recombinant spore-silk A-ENA-1 fibers	Sleutel M, Sogues A, Remaut H	REL	2026-11-04
+EMD-53518	Cryo-EM structure of Acinetobacter baumannii LolDF bound abaucin (wide cavity)	Dong H, Tang X, Qiao W, Pang J	REL	2026-11-04
+EMD-53522	Cryo-EM structure of Acinetobacter baumannii LolDF bound abaucin (narrow cavity)	Dong H, Tang X, Pang J, Qiao W	REL	2026-11-04
+EMD-53525	Cryo-EM structure of Acinetobacter baylyi LolDF bound AMP-PNP (closed NBDs)	Dong H, Tang X, Qiao W, Pang J	REL	2026-11-04
+EMD-54936	Structure of a circMbl 48S translation initiation complex in the AUG recognition state	Zuber PK, Li X, Du Y, Gordiyenko Y, Haddad TFM, Ramakrishnan V	REL	2026-11-04
+EMD-54937	Structure of a circMbl 48S translation initiation complex in the scanning state	Zuber PK, Li X, Du Y, Gordiyenko Y, Haddad TFM, Ramakrishnan V	REL	2026-11-04
+EMD-55888	Structure of endogenous human ncBAF bound to nucleosome	Arias Pinto C, Guan Y, Concordet JP, Ben-Shem A, Papai G	REL	2026-11-04
+EMD-56638	Membrane bound translating ribosome of unfed tardigrade (R. varieornatus) - eEF1A, tRNA (A/T-, P-site) bound	Nogales Moral A, Zimmerli CE, Reinhard J, Khusainov I, Hollenstein D, Biswas A, Glushkova D, Schneider M, Kunieda T, Hartl M, Reber S, Bui KH, Beck M, Koehler A	REL	2026-11-04
+EMD-56640	Translating ribosome of rehydrated tardigrade (R. varieornatus) - tRNA (P- , E-site) bound	Nogales Moral A, Zimmerli CE, Reinhard J, Khusainov I, Hollenstein D, Biswas A, Glushkova D, Schneider M, Kunieda T, Hartl M, Reber S, Bui KH, Beck M, Koehler A	REL	2026-11-04
+EMD-58450	Oxidized E.coli aerotaxis receptor in MH-cap bound state	Olsthoorn FA, Muok AR, Xu Y, Crane BR	REL	2026-11-04
+EMD-58586	CryoEM structure of substrate engaged p97 in complex with Ufd1/Npl4 and Delta-N-FAF1	Drakonaki A, van den Boom J, Kroening A, Meyer H, Gatsogiannis C	REL	2026-11-04
+EMD-58588	Focused map of substrate engaged p97 in complex with Ufd1/Npl4 and C-terminal FAF1-State I (Npl4)	Drakonaki A, van den Boom J, Kroening A, Meyer H, Gatsogiannis C	REL	2026-11-04
+EMD-58595	Focused map of substrate engaged p97 in complex with Ufd1/Npl4 and C-terminal FAF1- State III (Npl4)	Drakonaki A, van den Boom J, Kroening A, Meyer H, Gatsogiannis C	REL	2026-11-04
+EMD-58597	Consensus map of substrate engaged p97 in complex with Ufd1/Npl4 and C-terminal FAF1- State IV	Drakonaki A, van den Boom J, Kroening A, Meyer H, Gatsogiannis C	REL	2026-11-04
+EMD-58598	Focused map of substrate engaged p97 in complex with Ufd1/Npl4 and C-terminal FAF1- State IV (Npl4)	Drakonaki A, van den Boom J, Kroening A, Meyer H, Gatsogiannis C	REL	2026-11-04
+EMD-59179	Focused map of substrate engaged p97 in complex with Ufd1/Npl4 and C-terminal FAF1- State IV (FAF1)	Drakonaki A, van den Boom J, Kroening A, Meyer H, Gatsogiannis C	REL	2026-11-04
+EMD-59298	Cryo-EM structure of the L. pneumophila Ceg14 effector in complex with AnkJ	Shatskiy D, Belyy A	REL	2026-11-04
+EMD-59299	Cryo-EM structure of the L. pneumophila Ceg14 effector in complex with G-actin and AnkJ	Shatskiy D, Belyy A	REL	2026-11-04
+EMD-59986	CryoEM structure of substrate engaged p97 in complex with Ufd1/Npl4 and C-terminal FAF1-State I (non-normalized map)	Drakonaki A, van den Boom J, Kroening A, Meyer H, Gatsogiannis C	REL	2026-11-04
+EMD-59988	CryoEM structure of substrate engaged p97 in complex with Ufd1/Npl4 and C-terminal FAF1-State III (non-normalized map)	Drakonaki A, van den Boom J, Kroening A, Meyer H, Gatsogiannis C	REL	2026-11-04
+EMD-59990	CryoEM structure of substrate engaged p97 in complex with Ufd1/Npl4 and C-terminal FAF1-State II (non-normalized map)	Drakonaki A, van den Boom J, Kroening A, Meyer H, Gatsogiannis C	REL	2026-11-04
+EMD-64334	Cryo-EM structure of hemagglutinin from the A/Malaysia/1706215/2007 (H1N1) influenza virus with stabilizing mutations	Kim YG, Lee GY, Lee JO	REL	2026-11-04
+EMD-64336	Cryo-EM structure of hemagglutinin from the A/swine/Hong Kong/2106/98 (H9N2) influenza virus with stabilizing mutations	Kim YG, Lee GY, Lee JO	REL	2026-11-04
+EMD-66672	Cryo-EM Structure of the SCRIB-PP1 Complex	Alharbi SI, Huntington B, Sandholu A, Arold ST	REL	2026-11-04
+EMD-66768	Cryo-EM structure of the H3K56ac nucleosome	Oishi T, Hatazawa S, Kujirai T, Kato J, Kobayashi Y, Ogasawara M, Takizawa Y, Kurumizaka H	REL	2026-11-04
+EMD-66769	Cryo-EM structure of the H3K64ac nucleosome	Oishi T, Hatazawa S, Kujirai T, Kato J, Kobayashi Y, Ogasawara M, Takizawa Y, Kurumizaka H	REL	2026-11-04
+EMD-66839	HBV capsid in complex with Matrix Domain of HBsAg PreS	Chen L, Tao W, Xu J	REL	2026-11-04
+EMD-66840	HBV capsid (T=4)	Chen L, Xu J, Tao W	REL	2026-11-04
+EMD-66866	Cryo-EM structure of unnatural-base aptamer AptD1 with DENV1 NS1 hexamer	Sawada K, Sano FK, Shuto Y, Hirano H, Kusakizako T, Itoh Y, Kise Y, Nureki O	REL	2026-11-04
+EMD-66878	Cryo-EM map of the 70S ribosome from stationary-phase Methanolobus in complex with P/E-tRNA	Zhu L, Yi C, Li W	REL	2026-11-04
+EMD-66879	Cryo-EM map of the 50S ribosomal subunit from stationary-phase Methanolobus	Zhu L, Yi C, Li W	REL	2026-11-04
+EMD-66881	Cryo-EM map of the 70S ribosome from oxygen-stressed Methanolobus in complex with P/P-tRNA	Zhu L, Yi C, Li W	REL	2026-11-04
+EMD-66882	Cryo-EM map of the 70S ribosome from oxygen-stressed Methanolobus	Zhu L, Yi C, Li W	REL	2026-11-04
+EMD-66883	Cryo-EM map of the 70S ribosome from oxygen-stressed Methanolobus in complex with A/P-tRNA and P/E-tRNA	Zhu L, Yi C, Li W	REL	2026-11-04
+EMD-66884	Cryo-EM map of the 70S ribosome from oxygen-stressed Methanolobus in complex with P/E-tRNA	Zhu L, Yi C, Li W	REL	2026-11-04
+EMD-68347	Cryo-EM Structure of Dimeric EcCaspase Bound to N7-cADPR	Hao F, Xin X	REL	2026-11-04
+EMD-68777	Rotated 80S with A/A'-P/E tRNA	Wu M, Yuan S	REL	2026-11-04
+EMD-68778	Rotated 80S with A/A-P/E tRNA	Wu M, Yuan S	REL	2026-11-04
+EMD-68804	Rotated 80S with A/P-P/E tRNA	Wu M, Yuan S	REL	2026-11-04
+EMD-68898	Non-rotated 80S with eRF1(AAQ) and P/P tRNA	Wu M, Yuan S	REL	2026-11-04
+EMD-68916	semi-rotated 80S with A/A-P/P tRNA	Wu M, Yuan S	REL	2026-11-04
+EMD-70147	VAR2CSA in complex with V2C.044 Fab	Raghavan SSR, Ward AB	REL	2026-11-04
+EMD-70152	VAR2CSA in complex with V2C.014 Fab	Raghavan SSR, Ward AB	REL	2026-11-04
+EMD-70153	VAR2CSA in complex with V2C.015 Fab	Raghavan SSR, Ward AB	REL	2026-11-04
+EMD-70154	VAR2CSA in complex with V2C.041 Fab	Raghavan SSR, Ward AB	REL	2026-11-04
+EMD-70170	Subtomogram Averaged Cryo-ET Structure of the 96-nm Axonemal Repeat in RSP3B-KO Tetrahymena thermophila	Bicka MB, Ghanaeian AG, Black CB, Joachimiak EJ, Osinka AO, Majhi SM, Konopka AK, Bulska EB, Bui HB, Wloga DW	REL	2026-11-04
+EMD-70319	PC68_L31_570 Fab in complex with HIV-1 Env BG505 SOSIP.664 and RM20A3 Fab	Ozorowski G, Torres JL, Ward AB	REL	2026-11-04
+EMD-70325	PC68_L31_391 Fab in complex with HIV-1 Env BG505 SOSIP.664 and RM20A3 Fab (negative stain)	Ozorowski G, Lee W-H, Ward AB	REL	2026-11-04
+EMD-70326	PC68_L31_570 Fab in complex with HIV-1 Env BG505 SOSIP.664 and RM20A3 Fab (negative stain)	Ozorowski G, Lee W-H, Ward AB	REL	2026-11-04
+EMD-70331	Cryo-EM structure of the cytochrome bc complex (CIII2) from Bacillus subtilis	Zong Y, Zheng W, Gu M, Zhang K, Zhu J	REL	2026-11-04
+EMD-71846	Protein Complex(local refinement)	Hu Q, Li D, Sun Y, Li X	REL	2026-11-04
+EMD-73500	Pyrin PYD filament	Liu L, Wu H	REL	2026-11-04
+EMD-73503	14-3-3 heterodimer bound to phosphorylated Pyrin linkers	Liu L, Wu H	REL	2026-11-04
+EMD-73504	14-3-3E homodimer in the Pyrin inhibited complex	Liu L, Wu H	REL	2026-11-04
+EMD-73658	Cryo-EM structure of HKU1 spike with antibody HKU1-11 (local refinement of CTD, NTD, and Fab variable domain)	Feng Z, Bangaru S, Ward AB	REL	2026-11-04
+EMD-73659	Cryo-EM structure of HKU1 spike with antibody HKU1-2 (conformation 1)	Bangaru S, Feng Z, Ward AB	REL	2026-11-04
+EMD-73660	Cryo-EM structure of HKU1 spike with antibody HKU1-2 (conformation 2)	Bangaru S, Feng Z, Ward AB	REL	2026-11-04
+EMD-76736	Cryo-EM structure of Vibrio cholerae divisome complex FtsWIQLB (periplasmic conformation 1)	Hao A, Lee S-Y	REL	2026-11-04
+EMD-76737	Cryo-EM structure of Vibrio cholerae divisome complex FtsWIQLB (periplasmic conformation 2)	Hao A, Lee S-Y	REL	2026-11-04
+EMD-76738	Cryo-EM structure of Vibrio cholerae divisome complex FtsWIQLB (consensus)	Hao A, Lee S-Y	REL	2026-11-04
+EMD-77288	Protein Complex(local refinement)	Hu Q, Li D, Sun Y, Li X	REL	2026-11-04
+EMD-78602	Polynucleotide kinase phosphatase bound to a nucleosome containing a nick with a 3'-phosphate and 5'-OH at SHL-3 (FHA, composite)	Boesch DJ, Evans JJ, Weaver TM	REL	2026-11-04
+EMD-78603	Polynucleotide kinase phosphatase bound to a nucleosome containing a nick with a 3'-phosphate and 5'-OH at SHL-3 (catalytic-FHA, composite)	Boesch DJ, Evans JJ, Weaver TM	REL	2026-11-04
+EMD-78614	Polynucleotide kinase phosphatase bound to a nucleosome containing a nick with a 3'-phosphate and 5'-OH at SHL-3 (catalytic-FHA, consensus)	Boesch DJ, Evans JJ, Weaver TM	REL	2026-11-04
+EMD-78615	Polynucleotide kinase phosphatase bound to a nucleosome containing a nick with a 3'-phosphate and 5'-OH at SHL-3 (catalytic-FHA, PNKP/DNA local refine)	Boesch DJ, Evans JJ, Weaver TM	REL	2026-11-04
+EMD-78616	Polynucleotide kinase phosphatase bound to a nucleosome containing a nick with a 3'-phosphate and 5'-OH at SHL-3 (catalytic-FHA, FHA local refine)	Boesch DJ, Evans JJ, Weaver TM	REL	2026-11-04
+EMD-78617	Polynucleotide kinase phosphatase bound to a nucleosome containing a nick with a 3'-phosphate and 5'-OH at SHL-3 (FHA, consensus)	Boesch DJ, Evans JJ, Weaver TM	REL	2026-11-04
+EMD-78618	Polynucleotide kinase phosphatase bound to a nucleosome containing a nick with a 3'-phosphate and 5'-OH at SHL-3 (FHA, FHA local refine)	Boesch DJ, Evans JJ, Weaver TM	REL	2026-11-04
+EMD-78629	Polynucleotide kinase phosphatase bound to a nucleosome containing a nick with a 3'-phosphate and 5'-OH at SHL-5 (catalytic-FHA, PNKP/DNA local refine)	Boesch DJ, Evans JJ, Weaver TM	REL	2026-11-04
+EMD-78630	Polynucleotide kinase phosphatase bound to a nucleosome containing a nick with a 3'-phosphate and 5'-OH at SHL-5 (catalytic-FHA, FHA local refine)	Boesch DJ, Evans JJ, Weaver TM	REL	2026-11-04
+EMD-78685	Bacteroides SusCD Unliganded - Closed w/ Plug Domain	Cadigan MC, Koropatkin NM	REL	2026-11-04
+EMD-78689	Arabidopsis H2AXa containing nucleosome, Canonical	Panigrahi R, Edwards R, Glover M	REL	2026-11-04
+EMD-78770	Bacteroides SusCD + Maltoheptaose - Closed w/ Plug Domain	Cadigan MC, Koropatkin NM	REL	2026-11-04
+EMD-78773	Bacteroides SusCD Unliganded - Closed w/o Plug	Cadigan MC, Koropatkin NM	REL	2026-11-04
+EMD-78774	Bacteroides SusCD Unliganded - Open w/ Plug	Cadigan MC, Koropatkin NM	REL	2026-11-04
+EMD-78775	SusCD Wide Open from Bacteroides thetaiotaomicron	Koropatkin NM, Cadigan MC	REL	2026-11-04
+EMD-80683	Structure of recombinant RyR2 in the open state (Ca2+ dataset)	Otori Y, Takeuchi S, Ogawa H	REL	2026-11-04
+EMD-80684	Structure of recombinant RyR2 in the closed state (EGTA dataset)	Otori Y, Takeuchi S, Ogawa H	REL	2026-11-04
+EMD-80685	Structure of recombinant RyR2 in complex with Ryanozole in the open conformation (Ca2+ dataset)	Otori Y, Takeuchi S, Ogawa H	REL	2026-11-04
+EMD-80687	Structure of recombinant RyR2 in complex with Ryanozole in the closed conformation (EGTA dataset)	Otori Y, Takeuchi S, Ogawa H	REL	2026-11-04
+EMD-80688	Structure of recombinant RyR2 in the open state (Ca2+ dataset, Local refinement of Core domain)	Otori Y, Takeuchi S, Ogawa H	REL	2026-11-04
+EMD-80689	Structure of recombinant RyR2 in the closed state (EGTA dataset, Local refinement of Core domain)	Otori Y, Takeuchi S, Ogawa H	REL	2026-11-04
+EMD-80690	Structure of recombinant RyR2 in complex with Ryanozole in the open conformation (Ca2+ dataset, Local refinement of Core domain)	Otori Y, Takeuchi S, Ogawa H	REL	2026-11-04
+EMD-80691	Structure of recombinant RyR2 in complex with Ryanozole in the closed conformation (Ca2+ dataset, Local refinement of Core domain)	Otori Y, Takeuchi S, Ogawa H	REL	2026-11-04
+EMD-80692	Structure of recombinant RyR2 in complex with Ryanozole in the closed conformation (EGTA dataset, Local refinement of Core domain)	Otori Y, Takeuchi S, Ogawa H	REL	2026-11-04
+EMD-81083	Cryo-EM Structure of Hybrid NRPS-PKS Enzyme CorA from the myxobacterium Corallococcus exiguus	Qingyu Y, Hang Z, Wei Z	REL	2026-11-04
+EMD-81423	Cryo-EM structure of GAPDH on a silane-functionalized graphene grid	Yarimizu S, Inoue T, Asahara H	REL	2026-11-04
+EMD-81427	Cryo-EM structure of GAPDH on a functionalized graphene grid	Yarimizu S, Inoue T, Asahara H	REL	2026-11-04
+EMD-81430	Cryo-EM structure of GAPDH on a NHS-functionalized graphene grid	Yarimizu S, Inoue T, Asahara H	REL	2026-11-04
+EMD-81859	Yeast mitochondrial TOM complex	Omura SN, Nureki O, Araiso Y	REL	2026-11-04
+EMD-100376	Cryo-electron tomogram of Chroococcidiopsis thermalis PCC 7203 in white light	van Dorst S, Wietrzynski W, Engel BD	REL	2026-11-04
+EMD-100450	Chimeric Hepatitis B Virus Core Antigen (HBc) Virus-like Particles (VLP) Incorporating SARS-CoV-2 Spike Protein Epitopes	Siddiqa A, Qureshi BM, Saleem M	REL	2026-11-04
+EMD-79702	SaPIbov1 Rep:dsDNA consensus	Shin H, Rice PA	REL	2026-11-04
+EMD-79705	SaPIbov1 Rep:dsDNA component 0 frame 9	Shin H, Rice PA	REL	2026-11-04
+EMD-79708	SaPIbov1 Rep:dsDNA component 1 frame 0	Shin H, Rice PA	REL	2026-11-04
+EMD-79712	SaPIbov1 Rep:dsDNA component 2 frame 9	Shin H, Rice PA	REL	2026-11-04
